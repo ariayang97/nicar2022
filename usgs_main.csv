@@ -693,3 +693,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T20:51:36.511Z,61.0364,-151.374,67.1,1.0,ml,,,,0.42,ak,ak0222zu58j7,2022-03-06T20:54:27.476Z,"13 km WSW of Tyonek, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-03-06T19:52:45.780Z,38.8325,-122.8808333,2.45,0.04,md,19.0,64.0,0.00607,0.04,nc,nc73702161,2022-03-06T21:01:10.574Z,"12km ENE of Cloverdale, CA",earthquake,0.16,0.21,0.075,3.0,reviewed,nc,nc
 2022-03-06T06:05:33.550Z,61.5581,-146.134,36.2,1.4,ml,,,,0.25,ak,ak0222zljaol,2022-03-06T21:13:19.853Z,"48 km NNE of Valdez, Alaska",earthquake,,1.0,,,reviewed,ak,ak
+2022-03-06T12:44:19.442Z,66.0333,-148.4158,18.3,1.1,ml,,,,0.76,ak,ak0222zpc88s,2022-03-06T21:33:02.625Z,"30 km E of Stevens Village, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2022-03-06T06:27:07.636Z,51.8535,-177.4664,14.9,1.6,ml,,,,0.64,ak,ak0222zlnur6,2022-03-06T21:25:41.530Z,"57 km W of Adak, Alaska",earthquake,,2.2,,,reviewed,ak,ak

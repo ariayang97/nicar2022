@@ -668,3 +668,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T15:45:12.850Z,34.0306667,-117.1595,10.73,0.78,ml,20.0,129.0,0.1507,0.15,ci,ci40200752,2022-03-06T19:04:44.104Z,"4km SE of Redlands, CA",earthquake,0.25,0.67,0.174,11.0,reviewed,ci,ci
 2022-03-06T19:24:52.712Z,63.5972,-150.8619,0.1,1.4,ml,,,,0.77,ak,ak0222zte1th,2022-03-06T19:31:18.186Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-06T17:47:05.070Z,33.416,-116.4228333,14.54,0.68,ml,24.0,74.0,0.1071,0.16,ci,ci40200824,2022-03-06T19:24:40.563Z,"18km NNW of Borrego Springs, CA",earthquake,0.26,0.56,0.062,6.0,reviewed,ci,ci
+2022-03-06T19:35:05.930Z,38.8136673,-122.8101654,3.15,0.69,md,22.0,46.0,0.009714,0.02,nc,nc73702156,2022-03-06T19:36:42.849Z,"6km NW of The Geysers, CA",earthquake,0.25,0.54,0.47,3.0,automatic,nc,nc

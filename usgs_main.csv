@@ -1384,3 +1384,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T08:57:49.430Z,32.9156667,-116.2471667,2.69,1.06,ml,35.0,61.0,0.1766,0.25,ci,ci40203160,2022-03-09T09:01:23.907Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.36,1.59,0.147,20.0,automatic,ci,ci
 2022-03-09T08:55:31.439Z,66.8227,-154.1881,13.0,3.3,ml,,,,1.11,ak,ak02234lmx6y,2022-03-09T09:07:06.574Z,"71 km WNW of Alatna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-09T08:54:42.310Z,33.4971667,-116.4855,15.35,0.59,ml,24.0,62.0,0.0564,0.17,ci,ci40203152,2022-03-09T08:58:07.537Z,"19km ESE of Anza, CA",earthquake,0.29,0.65,0.124,14.0,automatic,ci,ci
+2022-03-09T09:37:01.820Z,33.3118333,-116.3116667,10.33,1.81,ml,63.0,26.0,0.05043,0.23,ci,ci40203184,2022-03-09T09:41:05.661Z,"9km NE of Borrego Springs, CA",earthquake,0.24,0.59,0.176,26.0,automatic,ci,ci
+2022-03-09T08:54:26.900Z,17.9601666666667,-66.9553333333333,14.12,1.51,md,5.0,199.0,,0.08,pr,pr71339628,2022-03-09T09:39:26.830Z,"5 km SW of Fuig, Puerto Rico",earthquake,0.66,0.76,0.592832167137997,6.0,reviewed,pr,pr

@@ -2260,3 +2260,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T13:10:29.890Z,62.665,-152.127,2.1,1.2,ml,,,,1.03,ak,ak02239myhcg,2022-03-12T13:23:37.675Z,"72 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-12T13:06:38.750Z,19.1863327026367,-155.390167236328,31.1800003051758,1.82000005,md,30.0,188.0,,0.159999996,hv,hv72947817,2022-03-12T13:09:53.620Z,"9 km E of Pāhala, Hawaii",earthquake,0.95,0.670000017,0.910000026,3.0,automatic,hv,hv
 2022-03-12T11:54:52.030Z,37.5653333,-118.7823333,6.2,0.24,md,13.0,177.0,0.0446,0.03,nc,nc73704656,2022-03-12T13:15:11.053Z,"9km W of Toms Place, CA",earthquake,0.74,0.92,0.255,11.0,reviewed,nc,nc
+2022-03-12T13:37:30.560Z,38.8019981,-122.7798309,4.2,0.35,md,11.0,79.0,0.01084,0.02,nc,nc73704681,2022-03-12T13:39:07.171Z,"3km NW of The Geysers, CA",earthquake,0.57,1.54,,1.0,automatic,nc,nc
+2022-03-12T13:35:54.060Z,34.0266667,-117.1593333,8.08,0.91,ml,24.0,92.0,0.03995,0.17,ci,ci40205856,2022-03-12T13:39:37.090Z,"4km SSE of Redlands, CA",earthquake,0.32,0.89,0.169,25.0,automatic,ci,ci

@@ -2317,3 +2317,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T20:22:52.926Z,-57.7151,-23.9727,10.0,5.2,mb,,70.0,7.811,0.75,us,us6000h42h,2022-03-12T20:42:11.040Z,South Sandwich Islands region,earthquake,9.9,1.8,0.059,97.0,reviewed,us,us
 2022-03-12T21:24:38.350Z,33.0733337,-116.9056702,27.78,1.7,ml,12.0,118.0,0.1646,0.21,ci,ci40206184,2022-03-12T21:26:43.576Z,"5km ESE of San Pasqual, CA",earthquake,0.77,1.24,0.8,3.0,automatic,ci,ci
 2022-03-12T21:11:30.673Z,31.6596,-104.4119,5.0,3.5,ml,,63.0,0.076,0.28,us,us6000h42z,2022-03-12T21:24:14.279Z,"57 km S of Whites City, New Mexico",earthquake,1.2,1.9,0.077,72.0,reviewed,us,us
+2022-03-12T20:32:49.219Z,60.3477,-141.6871,7.4,1.0,ml,,,,0.51,ak,ak02239r98yo,2022-03-12T21:28:29.019Z,"138 km SSE of McCarthy, Alaska",earthquake,,0.5,,,reviewed,ak,ak

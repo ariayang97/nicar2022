@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T07:07:24.343Z,45.1035,153.5272,10,5.1,mww,,69,7.72,0.57,us,us6000h3qp,2022-03-11T15:08:15.040Z,"east of the Kuril Islands",earthquake,9.8,1.8,0.098,10,reviewed,us,us
 2022-03-11T07:06:18.340Z,38.814167,-122.7623367,1.78,0.79,md,15,108,0.01368,0.02,nc,nc73704091,2022-03-11T08:09:17.244Z,"4km WSW of Cobb, CA",earthquake,0.31,0.55,0.1,3,automatic,nc,nc
 2022-03-11T07:00:26.670Z,17.9788333333333,-66.7545,12.72,2.27,md,6,204,,0.05,pr,pr71339783,2022-03-11T12:10:34.405Z,"4 km WSW of Tallaboa, Puerto Rico",earthquake,0.43,1.15,0.0582006808836628,4,reviewed,pr,pr
-2022-03-11T06:49:28.450Z,19.1951675415039,-155.400161743164,32.0299987792969,1.82,ml,45,168,,0.129999995,hv,hv72946722,2022-03-11T06:54:58.790Z,"8 km E of Pāhala, Hawaii",earthquake,0.58,0.720000029,4.42,4,automatic,hv,hv

@@ -3454,3 +3454,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T03:57:14.510Z,38.0704994,-122.3974991,11.13,1.12,md,5.0,220.0,0.06531,0.0,nc,nc73706646,2022-03-17T04:28:14.925Z,"10km NW of Bayview-Montalvin, CA",earthquake,1.52,1.37,0.25,7.0,automatic,nc,nc
 2022-03-17T03:55:41.270Z,33.058,-116.2051667,5.76,1.14,ml,30.0,48.0,0.1023,0.27,ci,ci39969783,2022-03-17T03:59:23.724Z,"12km SW of Ocotillo Wells, CA",earthquake,0.43,1.24,0.176,23.0,automatic,ci,ci
 2022-03-17T02:34:01.520Z,40.144,-123.8188333,22.68,1.88,md,21.0,77.0,0.04434,0.09,nc,nc73706611,2022-03-17T04:48:35.585Z,"3km N of Redway, CA",earthquake,0.26,0.26,0.192,16.0,reviewed,nc,nc
+2022-03-17T04:53:50.470Z,32.2536667,-115.2891667,1.07,2.35,ml,16.0,125.0,0.1871,0.24,ci,ci39969815,2022-03-17T04:57:39.864Z,"12km WNW of Alberto Oviedo Mota, B.C., MX",earthquake,0.85,31.61,0.324,26.0,automatic,ci,ci

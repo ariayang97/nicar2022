@@ -4140,3 +4140,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T10:53:43.320Z,33.2306667,-116.7293333,11.39,0.37,ml,13.0,68.0,0.02523,0.14,ci,ci39972103,2022-03-19T10:57:19.001Z,"3km ESE of Lake Henshaw, CA",earthquake,0.32,0.57,0.055,7.0,automatic,ci,ci
 2022-03-19T10:46:34.330Z,17.8548333333333,-66.8875,7.48,2.19,md,4.0,253.0,,0.23,pr,pr71340853,2022-03-19T11:06:19.200Z,"13 km S of Guánica, Puerto Rico",earthquake,1.42,31.61,0.170431585212381,3.0,reviewed,pr,pr
 2022-03-19T09:54:12.030Z,17.9626666666667,-66.9601666666667,11.08,2.77,md,26.0,175.0,,0.16,pr,pr71340848,2022-03-19T11:15:10.120Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.47,0.35,0.224136642273366,12.0,reviewed,pr,pr
+2022-03-19T11:29:26.913Z,61.9396,-151.3661,82.1,2.1,ml,,,,0.33,ak,ak0223l6n40z,2022-03-19T11:35:02.986Z,"5 km SSE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-19T05:43:54.340Z,37.5173333,-118.857,6.43,0.35,md,8.0,318.0,0.07588,0.03,nc,nc73707541,2022-03-19T11:34:39.924Z,"16km WSW of Toms Place, CA",earthquake,0.99,1.68,0.11,7.0,reviewed,nc,nc

@@ -4566,3 +4566,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T13:19:53.274Z,62.4915,-149.3236,9.9,1.6,ml,,,,0.44,ak,ak0223oiul34,2022-03-21T13:39:59.266Z,"40 km E of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-21T13:15:33.879Z,59.2791,-153.1009,78.4,1.5,ml,,,,0.64,ak,ak0223oitoqg,2022-03-21T13:29:47.804Z,"67 km W of Nanwalek, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-03-21T13:14:04.501Z,64.4052,-145.5621,12.3,1.4,ml,,,,0.56,ak,ak0223oiteqo,2022-03-21T13:27:22.411Z,"31 km NNE of Big Delta, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-21T13:46:24.730Z,19.5361671447754,-155.251159667969,7.73000001907349,1.87,md,41.0,57.0,,0.140000001,hv,hv72957942,2022-03-21T13:49:43.810Z,"10 km N of Volcano, Hawaii",earthquake,0.27,0.939999998,0.860000014,31.0,automatic,hv,hv

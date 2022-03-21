@@ -4651,3 +4651,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T18:52:09.565Z,64.2285,-150.0053,8.9,1.5,ml,,,,0.84,ak,ak0223om0qd8,2022-03-21T19:07:54.182Z,"39 km W of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-21T18:14:54.200Z,42.04283333333333,-124.978,5.98,2.73,ml,20.0,240.0,0.5109,2.35,uw,uw61815017,2022-03-21T18:55:20.840Z,"54 km WSW of Pistol River, Oregon",earthquake,20.11,43.03,0.2016366607904649,9.0,reviewed,uw,uw
 2022-03-21T16:28:47.044Z,-56.6938,-25.4038,10.0,5.0,mb,,84.0,6.745,0.7,us,us6000h6hj,2022-03-21T19:08:00.040Z,South Sandwich Islands region,earthquake,8.9,1.9,0.111,29.0,reviewed,us,us
+2022-03-21T19:24:47.068Z,62.4961,-149.8895,57.3,2.0,ml,,,,0.38,ak,ak0223omg8rr,2022-03-21T19:31:14.750Z,"12 km ENE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-03-21T19:21:20.260Z,35.649,-117.5455,8.19,1.23,ml,17.0,141.0,0.09217,0.16,ci,ci39973663,2022-03-21T19:25:03.227Z,"12km ENE of Ridgecrest, CA",earthquake,0.34,1.28,0.145,15.0,automatic,ci,ci
+2022-03-21T17:48:11.710Z,42.68333333333333,-124.76633333333334,9.6,2.39,ml,9.0,277.0,0.2139,0.21,uw,uw61815012,2022-03-21T19:31:55.360Z,"23 km WSW of Port Orford, Oregon",earthquake,1.15,4.88,0.0713107637807082,3.0,reviewed,uw,uw
+2022-03-21T08:46:54.450Z,48.318666666666665,-122.109,12.15,1.25,ml,16.0,93.0,0.05529,0.1,uw,uw61814952,2022-03-21T19:23:38.400Z,"6 km W of Lake Cavanaugh, Washington",earthquake,0.47,0.8,0.1761005118848204,3.0,reviewed,uw,uw

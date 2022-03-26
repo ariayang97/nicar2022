@@ -6010,3 +6010,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T21:15:53.542Z,-20.3624,-70.0684,17.97,2.6,ml,,169.0,0.868,0.55,us,us7000gxfq,2022-03-26T05:11:10.040Z,"18 km SSE of Iquique, Chile",earthquake,3.7,8.0,0.081,20.0,reviewed,us,us
 2022-03-25T18:00:44.315Z,17.446,-62.6961,11.21,3.2,ml,,157.0,0.276,0.18,us,us7000gxfl,2022-03-26T05:01:47.691Z,"9 km NE of Nicola Town, Saint Kitts and Nevis",earthquake,4.1,10.3,0.077,22.0,reviewed,us,us
 2022-03-26T05:34:47.059Z,65.4278,-145.0025,5.8,2.5,ml,,,,0.87,ak,ak0223wnv21f,2022-03-26T05:44:38.834Z,"18 km SSW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-26T05:55:45.940Z,38.7874985,-122.7348328,1.72,0.21,md,10.0,88.0,0.004505,0.01,nc,nc73710446,2022-03-26T05:57:18.864Z,"2km ENE of The Geysers, CA",earthquake,0.33,0.8,0.17,2.0,automatic,nc,nc

@@ -6440,3 +6440,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T20:55:21.199Z,60.09,-152.8246,103.4,1.8,ml,,,,0.48,ak,ak0223ykgcl3,2022-03-27T21:07:53.505Z,"62 km WNW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-27T20:51:52.624Z,38.3488,-118.921,4.3,1.0,ml,8.0,184.65,0.341,0.0763,nn,nn00836163,2022-03-27T20:56:06.661Z,"29 km ENE of Bridgeport, California",earthquake,,6.5,0.26,4.0,automatic,nn,nn
 2022-03-27T20:51:15.496Z,0.8097,-79.6639,46.48,4.9,mb,,125.0,1.339,1.0,us,us7000gxqx,2022-03-27T21:07:56.040Z,"16 km S of Esmeraldas, Ecuador",earthquake,5.1,8.1,0.041,187.0,reviewed,us,us
+2022-03-27T21:27:53.370Z,19.2481670379639,-155.418502807617,32.1800003051758,1.75,md,27.0,126.0,,0.129999995,hv,hv72964022,2022-03-27T21:31:15.680Z,"8 km NE of Pāhala, Hawaii",earthquake,0.71,0.99000001,1.76999998,4.0,automatic,hv,hv

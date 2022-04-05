@@ -8886,3 +8886,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T17:49:11.234Z,62.4437,-150.4182,60.7,1.8,ml,,,,0.56,ak,ak0224degv5i,2022-04-05T17:54:29.978Z,"16 km W of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-05T17:42:32.878Z,61.1686,-150.5064,58.7,1.4,ml,,,,0.34,ak,ak0224defesm,2022-04-05T17:54:34.982Z,"29 km NNE of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-05T03:41:56.170Z,38.8181667,-122.7631667,1.65,0.51,md,31.0,79.0,0.01337,0.04,nc,nc73714511,2022-04-05T17:46:53.628Z,"4km W of Cobb, CA",earthquake,0.16,0.31,0.195,5.0,reviewed,nc,nc
+2022-04-05T18:15:00.570Z,19.2288341522217,-155.397827148438,31.3799991607666,2.18000007,md,38.0,143.0,,0.129999995,hv,hv72974422,2022-04-05T18:18:11.700Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.57,0.920000017,0.74000001,19.0,automatic,hv,hv
+2022-04-05T18:13:17.695Z,63.5422,-147.9069,18.7,1.2,ml,,,,0.45,ak,ak0224deulhl,2022-04-05T18:16:22.460Z,"54 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-05T17:55:51.580Z,36.0701667,-117.8613333,1.81,1.26,ml,18.0,59.0,0.0666,0.12,ci,ci39986959,2022-04-05T18:15:24.202Z,"8km ENE of Coso Junction, CA",earthquake,0.21,0.27,0.159,13.0,reviewed,ci,ci
+2022-04-05T17:53:42.092Z,65.2207,-149.853,12.9,0.8,ml,,,,0.68,ak,ak0224dehse9,2022-04-05T18:03:49.085Z,"24 km WNW of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-05T12:22:24.570Z,36.803,-121.3838333,5.95,1.83,md,45.0,59.0,0.05051,0.11,nc,nc73714676,2022-04-05T18:15:26.540Z,"2km WSW of Ridgemark, CA",earthquake,0.19,0.46,0.236,35.0,reviewed,nc,nc
+2022-04-05T05:49:10.700Z,38.8256667,-122.7858333,1.93,0.39,md,23.0,71.0,0.01303,0.02,nc,nc73714556,2022-04-05T18:00:54.956Z,"5km W of Cobb, CA",earthquake,0.21,0.44,0.13,3.0,reviewed,nc,nc

@@ -9957,3 +9957,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T07:39:19.993Z,60.343,-147.881,9.1,2.9,ml,,,,0.61,ak,ak0224julsmd,2022-04-09T07:43:18.359Z,"31 km NNE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-09T07:35:37.910Z,62.2037,-150.7209,65.7,1.8,ml,,,,0.37,ak,ak0224jukz3z,2022-04-09T07:40:56.963Z,"28 km WSW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-09T07:32:40.785Z,61.6093,-149.6853,20.2,2.1,ml,,,,0.71,ak,ak0224jukc63,2022-04-09T07:40:56.210Z,"4 km WSW of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-09T07:50:40.150Z,32.9001656,-116.2421646,6.6,1.27,ml,16.0,152.0,0.07482,0.17,ci,ci39989223,2022-04-09T07:53:00.928Z,"28km ENE of Pine Valley, CA",earthquake,0.57,0.88,0.143,7.0,automatic,ci,ci

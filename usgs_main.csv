@@ -11242,3 +11242,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T09:40:30.080Z,33.6143333,-117.2651667,6.51,0.7,ml,15.0,115.0,0.05993,0.16,ci,ci39992095,2022-04-14T09:44:01.389Z,"2km NE of Wildomar, CA",earthquake,0.34,0.82,0.075,9.0,automatic,ci,ci
 2022-04-14T09:30:18.500Z,38.7804985,-122.7675018,1.33,0.36,md,9.0,115.0,0.009859,0.02,nc,nc73718221,2022-04-14T09:47:30.588Z,"1km WNW of The Geysers, CA",earthquake,0.44,0.69,,1.0,automatic,nc,nc
 2022-04-14T09:51:49.930Z,33.5671654,-116.6623306,9.43,1.08,ml,13.0,75.0,0.06262,0.03,ci,ci39992103,2022-04-14T09:53:57.419Z,"2km NE of Anza, CA",earthquake,0.35,0.99,0.372,13.0,automatic,ci,ci
+2022-04-14T09:54:43.203Z,57.8325,-154.9734,15.8,1.6,ml,,,,0.26,ak,ak0224s5knsw,2022-04-14T10:01:26.978Z,"42 km NW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-04-14T09:27:14.501Z,-55.4278,-1.7661,10.0,5.0,mb,,133.0,16.315,0.56,us,us7000h24c,2022-04-14T09:59:33.040Z,Bouvet Island region,earthquake,15.1,1.9,0.138,17.0,reviewed,us,us

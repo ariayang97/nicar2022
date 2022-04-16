@@ -11864,3 +11864,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T08:27:36.360Z,19.2310009002686,-155.401992797852,34.189998626709,1.75999999,md,30.0,140.0,,0.140000001,hv,hv72986527,2022-04-16T08:30:59.310Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.61,0.860000014,1.77999997,4.0,automatic,hv,hv
 2022-04-16T08:23:42.700Z,38.7905006,-122.7603302,2.24,0.34,md,13.0,75.0,0.01012,0.02,nc,nc73718245,2022-04-16T08:31:23.996Z,"2km NNW of The Geysers, CA",earthquake,0.35,0.72,0.01,3.0,automatic,nc,nc
 2022-04-16T08:14:35.453Z,-3.5468,145.1867,10.0,4.7,mb,,68.0,6.99,1.17,us,us7000h2ne,2022-04-16T08:36:54.040Z,"136 km ENE of Angoram, Papua New Guinea",earthquake,11.8,1.9,0.11,25.0,reviewed,us,us
+2022-04-16T08:46:57.750Z,38.8266678,-122.814003,1.79,0.85,md,8.0,115.0,0.004483,0.02,nc,nc73718250,2022-04-16T08:53:35.745Z,"7km NW of The Geysers, CA",earthquake,0.41,0.95,,1.0,automatic,nc,nc

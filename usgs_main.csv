@@ -13253,3 +13253,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T06:13:28.410Z,38.8349991,-122.8098297,2.61,0.36,md,7.0,152.0,0.01159,0.01,nc,nc73721150,2022-04-21T06:15:06.263Z,"8km W of Cobb, CA",earthquake,0.61,1.42,,1.0,automatic,nc,nc
 2022-04-21T06:12:46.504Z,-43.0047,-15.9735,10.0,5.2,mb,,68.0,17.565,0.98,us,us6000hf6u,2022-04-21T06:37:40.040Z,southern Mid-Atlantic Ridge,earthquake,10.2,1.8,0.107,29.0,reviewed,us,us
 2022-04-21T06:11:53.200Z,38.8131676,-122.7928314,2.98,0.84,md,8.0,167.0,0.005539,0.02,nc,nc73721145,2022-04-21T06:36:18.568Z,"5km NW of The Geysers, CA",earthquake,0.66,1.67,,1.0,automatic,nc,nc
+2022-04-21T06:41:38.498Z,60.6449,-151.5245,67.2,1.1,ml,,,,0.3,ak,ak02253ogzrt,2022-04-21T06:43:41.455Z,"11 km WNW of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-04-21T06:20:06.585Z,-42.8434,-16.0005,10.0,5.1,mb,,91.0,17.67,0.33,us,us6000hf72,2022-04-21T06:47:09.040Z,southern Mid-Atlantic Ridge,earthquake,6.6,1.9,0.09,40.0,reviewed,us,us

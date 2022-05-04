@@ -16657,3 +16657,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-04T02:02:51.860Z,38.7981682,-122.8146667,3.34,0.84,md,6.0,136.0,0.01337,0.01,nc,nc73729096,2022-05-04T03:06:14.069Z,"6km WNW of The Geysers, CA",earthquake,1.0,1.77,,1.0,automatic,nc,nc
 2022-05-04T01:58:44.020Z,38.8064995,-122.7911682,0.87,0.34,md,8.0,126.0,0.003548,0.02,nc,nc73729086,2022-05-04T02:44:14.952Z,"4km NW of The Geysers, CA",earthquake,0.32,0.72,,1.0,automatic,nc,nc
 2022-05-04T00:52:29.670Z,43.937333333333335,-121.47216666666668,-1.64,0.81,ml,7.0,193.0,0.1388,0.07,uw,uw61827892,2022-05-04T03:05:33.360Z,"6 km NNW of Sunriver, Oregon",explosion,3.96,31.61,0.2118582234456253,5.0,reviewed,uw,uw
+2022-05-04T03:45:57.897Z,-32.235,-71.9545,11.76,5.0,mww,,71.0,0.827,0.62,us,us7000h6x9,2022-05-04T04:07:12.040Z,"72 km WNW of La Ligua, Chile",earthquake,3.2,2.8,0.08,15.0,reviewed,us,us

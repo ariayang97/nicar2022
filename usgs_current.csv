@@ -14,12 +14,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T09:22:18.730Z,37.5680008,-118.9260025,9.29,1.38,md,17,154,0.06082,0.02,nc,nc73755786,2022-07-07T10:02:13.652Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.4,1.16,0.1,16,automatic,nc,nc
 2022-07-07T09:19:06.280Z,37.5496674,-118.9276657,9.36,2.78,md,20,146,0.07878,0.06,nc,nc73755781,2022-07-07T09:47:18.565Z,"11km SSE of Mammoth Lakes, CA",earthquake,0.61,0.97,0.13,30,automatic,nc,nc
 2022-07-07T09:06:26.120Z,37.566,-118.9273333,8.63,0.33,md,16,155,0.06304,0.03,nc,nc73755771,2022-07-07T09:48:10.571Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.32,0.85,0.232,15,reviewed,nc,nc
-2022-07-07T09:05:39.311Z,61.2517,-149.2586,28.7,1,ml,,,,0.57,ak,ak0228n2fawb,2022-07-07T09:07:38.130Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-07-07T09:05:39.311Z,61.2517,-149.2586,28.7,1,ml,,,,0.57,ak,ak0228n2fawb,2022-07-07T09:07:38.130Z,"18 km ESE of Eagle River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-07T09:04:40.770Z,37.6808319,-118.9493332,3.45,0.92,md,10,206,0.05531,0.34,nc,nc73755766,2022-07-07T09:47:17.566Z,"6km NNE of Mammoth Lakes, CA",earthquake,3.84,4.38,0.28,9,automatic,nc,nc
-2022-07-07T09:02:25.558Z,60.0779,-152.5107,85.1,1.2,ml,,,,0.31,ak,ak0228n2emor,2022-07-07T09:04:42.549Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-07-07T09:02:25.558Z,60.0779,-152.5107,85.1,1.2,ml,,,,0.31,ak,ak0228n2emor,2022-07-07T09:04:42.549Z,"45 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-07T08:57:48.530Z,37.565834,-118.9264984,8.83,0.78,md,10,227,0.063,0.02,nc,nc73755761,2022-07-07T09:03:11.454Z,"9km SSE of Mammoth Lakes, CA",earthquake,1.19,1.72,0.13,9,automatic,nc,nc
 2022-07-07T08:57:06.360Z,37.6098328,-122.4873352,9.84,0.96,md,7,214,0.02615,0.03,nc,nc73755756,2022-07-07T09:09:11.493Z,"0km S of Pacifica, CA",earthquake,0.87,1.72,0.09,6,automatic,nc,nc
-2022-07-07T08:51:39.320Z,38.6381683,-122.7276688,5.06,1.61,md,20,107,0.07608,0.07,nc,nc73755751,2022-07-07T09:31:12.487Z,"13km ENE of Healdsburg, CA",earthquake,0.46,1.05,0.09,8,automatic,nc,nc
+2022-07-07T08:51:39.320Z,38.6381683,-122.7276688,5.06,1.61,md,20,107,0.07608,0.07,nc,nc73755751,2022-07-07T11:04:11.996Z,"13km ENE of Healdsburg, CA",earthquake,0.46,1.05,0.09,8,automatic,nc,nc
 2022-07-07T08:47:10.930Z,17.8615,-66.8761666666667,7.65,2.46,md,24,244,,0.2,pr,pr71357938,2022-07-07T09:07:21.500Z,"12 km SSE of Guánica, Puerto Rico",earthquake,0.53,0.39,0.139365928737398,16,reviewed,pr,pr
 2022-07-07T08:40:49.200Z,38.833168,-122.7968369,-0.01,1.06,md,21,44,0.007287,0.04,nc,nc73755741,2022-07-07T08:48:11.241Z,"6km W of Cobb, CA",earthquake,0.16,0.4,0.16,4,automatic,nc,nc
 2022-07-07T08:40:21.090Z,37.5656667,-118.9291667,7.89,0.24,md,15,155,0.06382,0.03,nc,nc73755746,2022-07-07T09:41:10.538Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.44,0.76,0.092,12,reviewed,nc,nc
@@ -143,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T18:32:52.590Z,38.7939987,-122.4226685,8.14,1.64,md,8,179,0.02282,0.07,nc,nc73755436,2022-07-06T20:35:22.482Z,"12km E of Hidden Valley Lake, CA",earthquake,1.57,1.43,0.11,6,automatic,nc,nc
 2022-07-06T18:31:47.572Z,61.189,-146.861,7.9,1.5,ml,,,,0.83,ak,ak0228lkeg4f,2022-07-06T20:04:58.883Z,"28 km WNW of Valdez, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-07-06T18:31:32.730Z,39.4293333,-110.3,-1.7,1.58,md,6,198,0.02013,0.15,uu,uu60504677,2022-07-06T20:41:58.250Z,"15 km SSE of Sunnyside, Utah",earthquake,1.31,1.14,0.191,6,reviewed,uu,uu
-2022-07-06T18:31:23.731Z,10.3979,94.1893,10,4.5,mb,31,178,1.891,0.78,us,us6000i0bz,2022-07-06T20:12:49.040Z,"Andaman Islands, India region",earthquake,10.3,1.9,0.119,21,reviewed,us,us
+2022-07-06T18:31:23.731Z,10.3979,94.1893,10,4.5,mb,31,178,1.891,0.78,us,us6000i0bz,2022-07-06T20:12:49.040Z,"211 km SE of Port Blair, India",earthquake,10.3,1.9,0.119,21,reviewed,us,us
 2022-07-06T18:24:24.825Z,15.8402,-93.5335,105.03,4.1,mb,28,168,1.412,0.57,us,us6000i0bv,2022-07-06T20:07:36.040Z,"4 km S of Tres Picos, Mexico",earthquake,9.3,13.1,0.101,27,reviewed,us,us
 2022-07-06T18:19:03.940Z,19.1823333333333,-155.400666666667,31.58,1.64,md,21,187,,0.12,hv,hv73067047,2022-07-06T21:54:07.750Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.72,0.93,0.116446179313557,13,reviewed,hv,hv
 2022-07-06T18:13:51.850Z,37.0221667,-119.7575,8.14,2.04,md,16,81,0.04803,0.07,nc,nc73755431,2022-07-07T04:20:13.542Z,"6km NW of Friant, CA",earthquake,0.23,0.26,0.323,29,reviewed,nc,nc
@@ -215,6 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T11:34:18.824Z,38.6414,-118.4214,5.5,0,ml,5,251.96,0.08,0.122,nn,nn00842336,2022-07-07T02:40:43.078Z,"21 km NE of Hawthorne, Nevada",earthquake,,26.6,0,1,reviewed,nn,nn
 2022-07-06T11:09:57.863Z,37.145,-116.2065,8.8,0,ml,21,116.97,0.067,0.1494,nn,nn00842335,2022-07-07T02:40:42.117Z,"55 km ENE of Beatty, Nevada",earthquake,,1.2,0.47,17,reviewed,nn,nn
 2022-07-06T11:05:42.240Z,45.9138333,-111.4813333,6.19,1.82,ml,26,136,0.287,0.18,mb,mb80550654,2022-07-06T14:35:24.530Z,"5 km NW of Logan, Montana",earthquake,0.5,2.17,0.154,9,reviewed,mb,mb
-2022-07-06T11:03:00.170Z,19.7386,-64.5833,54,3.9,md,13,300,1.4355,0.39,pr,pr2022187001,2022-07-06T12:25:37.040Z,"157 km N of Cruz Bay, U.S. Virgin Islands",earthquake,4.63,24.12,0.1,10,reviewed,pr,pr
-2022-07-06T11:02:57.510Z,38.837,-122.8078333,2.48,0.32,md,19,59,0.0137,0.02,nc,nc71128454,2022-07-07T10:56:05.417Z,"8km WNW of Cobb, CA",earthquake,0.23,0.35,0.236,4,reviewed,nc,nc
-2022-07-06T11:02:43.560Z,39.6065,-123.0053333,14.67,1.95,md,25,45,0.1445,0.11,nc,nc73755306,2022-07-07T10:58:10.956Z,"22km N of Lake Pillsbury, CA",earthquake,0.24,0.77,0.088,27,reviewed,nc,nc

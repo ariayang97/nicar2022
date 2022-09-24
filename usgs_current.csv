@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-24T09:44:42.230Z,34.0158348,-117.2170029,14.38,1.09,ml,40,43,0.1335,0.16,ci,ci40105519,2022-09-24T09:47:06.040Z,"5km SE of Loma Linda, CA",earthquake,0.29,0.68,0.212,5,automatic,ci,ci
+2022-09-24T09:50:23.320Z,38.8320007,-122.8183365,1.8,0.78,md,20,54,0.01075,0.04,nc,nc73785311,2022-09-24T09:51:57.338Z,"8km NW of The Geysers, CA",earthquake,0.24,0.44,0.18,4,automatic,nc,nc
+2022-09-24T09:44:42.270Z,34.016,-117.2168333,14.54,0.99,ml,37,43,0.08887,0.2,ci,ci40105519,2022-09-24T09:48:17.867Z,"5km SW of Redlands, CA",earthquake,0.26,0.6,0.207,29,automatic,ci,ci
 2022-09-24T09:39:55.735Z,65.4393,-148.2549,9.2,1.5,ml,,,,0.36,ak,ak022c9q31it,2022-09-24T09:42:08.153Z,"16 km SE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-09-24T09:39:20.490Z,33.3455,-116.354,0.2,1.16,ml,39,39,0.04079,0.32,ci,ci40105511,2022-09-24T09:42:59.714Z,"10km N of Borrego Springs, CA",earthquake,0.39,31.61,0.114,26,automatic,ci,ci
+2022-09-24T09:39:20.490Z,33.3455,-116.354,0.2,1.16,ml,39,39,0.04079,0.32,ci,ci40105511,2022-09-24T09:50:02.920Z,"10km N of Borrego Springs, CA",earthquake,0.39,31.61,0.114,26,automatic,ci,ci
 2022-09-24T08:53:04.533Z,58.1413,-151.5004,15.3,2,ml,,,,0.66,ak,ak022c9pkhzp,2022-09-24T08:55:20.693Z,"63 km ENE of Ouzinkie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-24T08:45:10.760Z,33.963,-116.6431667,13.58,0.6,ml,16,69,0.07543,0.18,ci,ci40105487,2022-09-24T08:48:40.708Z,"11km SSW of Morongo Valley, CA",earthquake,0.39,0.98,0.218,14,automatic,ci,ci
 2022-09-24T08:43:52.830Z,34.136,-116.741,6.72,0.8,ml,13,134,0.3053,0.29,ci,ci40105479,2022-09-24T08:47:24.677Z,"17km SE of Big Bear City, CA",earthquake,1,31.61,0.214,12,automatic,ci,ci
@@ -284,5 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-23T10:15:02.106Z,31.73598614,-104.5153115,5.668823242,2,ml,25,83,0.01705882507,0.2,tx,tx2022sqyp,2022-09-23T21:00:49.221Z,"50 km SSW of Whites City, New Mexico",earthquake,0.9001309967999999,0.6479105728,0,7,reviewed,tx,tx
 2022-09-23T10:11:37.700Z,53.8826666666667,-166.935833333333,7.9,-0.03,ml,5,246,,0.13,av,av91072023,2022-09-23T19:45:23.170Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.85,1.16,0.234638142876891,5,reviewed,av,av
 2022-09-23T10:01:46.397Z,38.0056,-118.7099,3.7,1,ml,11,93.18,0.294,0.2029,nn,nn00847735,2022-09-23T17:31:19.239Z,"29 km NW of Benton, California",earthquake,,3.2,0.23,5,reviewed,nn,nn
-2022-09-23T09:53:29.578Z,38.4633,-119.3917,2.9,1.1,ml,12,120.12,0.055,0.1067,nn,nn00847733,2022-09-23T17:25:01.873Z,"9 km SE of Walker, California",earthquake,,2.1,0.07,7,reviewed,nn,nn
-2022-09-23T09:50:16.407Z,0.1801,123.6085,165.99,4.9,mb,46,61,1.474,0.79,us,us7000iae6,2022-09-23T10:07:54.040Z,"72 km ESE of Gorontalo, Indonesia",earthquake,4.25,7.62,0.056,101,reviewed,us,us

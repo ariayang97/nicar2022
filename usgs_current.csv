@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-21T13:58:01.241Z,40.3604,-119.9441,2.8,1.9,ml,12,107.31,0.25,0.2517,nn,nn00851732,2022-11-21T14:01:01.654Z,"Nevada",earthquake,,2.6,0.23,9,automatic,nn,nn
 2022-11-21T13:39:37.400Z,61.639,-149.64,34.1,2.1,ml,,,,0.55,ak,ak022expmv64,2022-11-21T13:41:54.785Z,"2 km NW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-21T13:36:45.951Z,38.2175,-117.8352,4,1.1,ml,11,189.59,0.119,0.272,nn,nn00851730,2022-11-21T13:39:49.144Z,"30 km SE of Mina, Nevada",earthquake,,10,0.39,5,automatic,nn,nn
 2022-11-21T13:32:28.338Z,61.4569,-146.5934,2.8,1.7,ml,,,,0.88,ak,ak022explcgh,2022-11-21T13:34:37.692Z,"38 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak

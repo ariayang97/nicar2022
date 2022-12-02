@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-02T08:40:50.290Z,38.8344994,-122.8119965,1.97,0.76,md,15,54,0.01119,0.02,nc,nc73813756,2022-12-02T08:42:24.365Z,"8km W of Cobb, CA",earthquake,0.25,0.63,0.27,17,automatic,nc,nc
+2022-12-02T08:40:50.290Z,38.8344994,-122.8119965,1.97,0.76,md,15,54,0.01119,0.02,nc,nc73813756,2022-12-02T08:52:10.383Z,"8km W of Cobb, CA",earthquake,0.25,0.63,0.27,17,automatic,nc,nc
 2022-12-02T08:34:43.190Z,33.7356667,-116.1123333,3,1.04,ml,33,87,0.08967,0.18,ci,ci40383560,2022-12-02T08:38:14.301Z,"8km NE of Coachella, CA",earthquake,0.23,0.63,0.176,27,automatic,ci,ci
 2022-12-02T08:17:27.033Z,63.56,-150.8899,0,1.8,ml,,,,0.85,ak,ak022fftfs0p,2022-12-02T08:20:28.225Z,"41 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-02T08:16:16.490Z,36.5838318,-121.2231674,-0.12,1.47,md,7,124,0.03272,0.09,nc,nc73813751,2022-12-02T08:33:18.260Z,"9km NW of Pinnacles, CA",earthquake,0.43,1.14,0.23,6,automatic,nc,nc

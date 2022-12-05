@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-05T06:48:47.540Z,33.9746666,-117.1389999,16.44,1.11,ml,16,138,0.1255,0.15,ci,ci40142167,2022-12-05T06:50:52.768Z,"8km W of Calimesa, CA",earthquake,0.55,1.25,0.221,5,automatic,ci,ci
+2022-12-05T06:42:23.653Z,60.6036,-146.709,2.6,2.8,ml,,,,1.46,ak,ak022fkr0b05,2022-12-05T06:45:02.833Z,"29 km S of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-05T06:32:15.250Z,35.921,-117.7165,5.79,1.24,ml,15,171,0.08687,0.1,ci,ci40142159,2022-12-05T06:35:45.718Z,"17km E of Little Lake, CA",earthquake,0.32,0.64,0.121,13,automatic,ci,ci
 2022-12-05T06:20:37.449Z,63.2007,-151.367,3.6,1.8,ml,,,,0.57,ak,ak022fkqvm8w,2022-12-05T06:22:12.572Z,"41 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-05T06:17:31.140Z,19.1849994659424,-155.483169555664,34.1800003051758,1.84000003,md,35,76,,0.100000001,hv,hv73259742,2022-12-05T06:20:40.260Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.59,1.12,1.84000003,4,automatic,hv,hv
@@ -205,7 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T06:53:48.711Z,41.9805,-119.5624,15.23,2.9,ml,17,120,0.558,0.36,us,us6000j6te,2022-12-04T19:01:46.501Z,"50 km ENE of Fort Bidwell, California",earthquake,2.61,7.404,0.041,80,reviewed,us,us
 2022-12-04T06:51:27.297Z,62.8632,-150.3312,78.2,1.6,ml,,,,0.43,ak,ak022fj3iw61,2022-12-04T06:54:20.376Z,"46 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-04T06:51:12.210Z,36.8085,-116.0482,5.2,0.1,ml,13,150.84,0.035,0.0653,nn,nn00852559,2022-12-04T18:52:24.038Z,"42 km NW of Indian Springs, Nevada",earthquake,,1.6,0.19,3,reviewed,nn,nn
-2022-12-04T06:49:57.116Z,63.0402,-151.5531,4.6,1.4,ml,,,,1.28,ak,ak022fj3ij16,2022-12-04T06:52:28.320Z,"56 km S of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-12-04T06:44:49.171Z,-7.0547,68.0618,10,4.8,mb,75,84,4.371,0.51,us,us6000j6tc,2022-12-04T07:17:34.040Z,"Chagos Archipelago region",earthquake,8.76,1.872,0.07,64,reviewed,us,us
-2022-12-04T06:43:01.650Z,38.821167,-122.7973328,2.74,1.09,md,19,34,0.0102,0.01,nc,nc73814396,2022-12-04T07:15:11.331Z,"6km NW of The Geysers, CA",earthquake,0.24,0.5,0.26,19,automatic,nc,nc
-2022-12-04T06:42:50.260Z,34.684,-85.0726666666667,11.34,2.26,md,16,84,,0.14,se,se60501526,2022-12-04T14:25:44.650Z,"13 km SW of Dalton, Georgia",earthquake,0.48,0.96,0.0575338289456275,14,reviewed,se,se

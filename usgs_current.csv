@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-29T15:48:40.310Z,34.5508347,-116.2665024,-0.78,2.18,ml,60,36,0.1624,0.2,ci,ci40151095,2022-12-29T15:50:55.028Z,"21km SSW of Ludlow, CA",earthquake,0.22,0.76,0.256,27,automatic,ci,ci
+2022-12-29T15:43:55.340Z,38.8381653,-122.7843323,1.32,0.92,md,8,115,0.004701,0.01,nc,nc73826426,2022-12-29T15:45:31.204Z,"6km WNW of Cobb, CA",earthquake,0.46,1.02,0.3,10,automatic,nc,nc
 2022-12-29T15:30:04.390Z,38.8406677,-122.8386688,0.82,0.66,md,17,87,0.003238,0.04,nc,nc73826421,2022-12-29T15:31:40.923Z,"10km NW of The Geysers, CA",earthquake,0.23,0.37,0.43,16,automatic,nc,nc
 2022-12-29T15:27:54.510Z,38.8255005,-122.8516693,1.87,1.03,md,18,88,0.004548,0.01,nc,nc73826416,2022-12-29T15:29:31.651Z,"10km WNW of The Geysers, CA",earthquake,0.22,0.43,0.2,20,automatic,nc,nc
 2022-12-29T15:26:32.370Z,19.1371669769287,-155.390502929688,30.1700000762939,1.99000001,md,26,216,,0.129999995,hv,hv73286557,2022-12-29T15:29:43.550Z,"Island of Hawaii, Hawaii",earthquake,0.88,1.48000002,1.75,5,automatic,hv,hv

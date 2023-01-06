@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-06T17:42:07.519Z,65.5377,-149.8852,1.1,1.4,ml,,,,0.67,ak,ak023a7lgwf,2023-01-06T17:44:49.029Z,"13 km ENE of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-06T17:05:29.516Z,64.9209,-151.0486,12.2,1.3,ml,,,,0.22,ak,ak023a7dl3r,2023-01-06T17:07:12.821Z,"21 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-06T17:00:52.472Z,39.6431,-107.4959,10.58,2.5,ml,19,68,0.755,0.44,us,us7000j2lr,2023-01-06T17:29:34.040Z,"8 km NNE of New Castle, Colorado",earthquake,1.69,7.454,0.062,34,reviewed,us,us
 2023-01-06T16:50:03.148Z,-9.3395,-79.0612,61.187,4.5,mb,23,146,3.418,0.49,us,us7000j2lq,2023-01-06T17:14:40.040Z,"off the coast of northern Peru",earthquake,5.48,8.866,0.145,14,reviewed,us,us

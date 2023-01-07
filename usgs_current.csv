@@ -12,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-07T14:47:53.038Z,61.0958,-149.3904,20.4,2,ml,,,,0.75,ak,ak023btdooa,2023-01-07T14:49:30.738Z,"20 km NW of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-07T14:45:26.670Z,17.9918333333333,-66.8933333333333,13.76,2.23,md,16,138,0.02436,0.14,pr,pr71391488,2023-01-07T15:27:10.410Z,"1 km NNW of Maria Antonia, Puerto Rico",earthquake,0.49,0.27,0.170064214128576,9,reviewed,pr,pr
 2023-01-07T14:41:27.646Z,59.7156,-153.1821,100.5,1.9,ml,,,,0.28,ak,ak023btccf0,2023-01-07T14:43:19.632Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-01-07T14:37:46.390Z,17.991,-67.0003333333333,9.3,2.29,md,8,146,0.04696,0.13,pr,pr71391473,2023-01-07T16:02:24.990Z,"Puerto Rico",earthquake,0.46,0.89,0.0368392758476315,5,reviewed,pr,pr
 2023-01-07T14:21:10.370Z,38.8366661,-122.7798309,2.15,0.98,md,11,137,0.006505,0.02,nc,nc73829676,2023-01-07T14:39:12.207Z,"5km WNW of Cobb, CA",earthquake,0.67,1.17,0.18,12,automatic,nc,nc
 2023-01-07T14:20:57.150Z,33.2686667,-116.4258333,4.88,1.17,ml,35,56,0.007281,0.2,ci,ci40154327,2023-01-07T14:31:45.760Z,"5km WNW of Borrego Springs, CA",earthquake,0.31,0.77,0.151,26,automatic,ci,ci
 2023-01-07T14:18:38.083Z,61.872,-150.5482,29.5,1.6,ml,,,,0.73,ak,ak023bt7fr4,2023-01-07T14:31:19.526Z,"30 km WNW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -209,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T16:25:51.190Z,19.1668338775635,-155.501495361328,33.4700012207031,2.48,ml,41,114,,0.170000002,hv,hv73298107,2023-01-06T17:10:52.040Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.49,0.860000014,3.93,9,automatic,hv,hv
 2023-01-06T16:25:24.059Z,58.2461,-155.2047,0,0.5,ml,,,,0.46,ak,ak023a6wfec,2023-01-07T04:18:20.750Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-06T16:18:50.520Z,33.101,-116.6326667,13.92,1.16,ml,30,51,0.0356,0.23,ci,ci40154127,2023-01-06T16:22:45.362Z,"4km NW of Julian, CA",earthquake,0.35,0.68,0.169,26,automatic,ci,ci
-2023-01-06T16:11:39.228Z,38.1839,-117.8688,8.9,0.9,ml,13,172.32,0.084,0.1412,nn,nn00854594,2023-01-07T02:41:51.984Z,"31 km SE of Mina, Nevada",earthquake,,1.9,0.49,4,reviewed,nn,nn
-2023-01-06T15:59:31.130Z,58.1605,-155.389166666667,2.1,0.19,ml,8,203,,0.07,av,av91743651,2023-01-07T04:00:07.750Z,"86 km NW of Karluk, Alaska",earthquake,0.29,0.45,0.196440916648994,8,reviewed,av,av

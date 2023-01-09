@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-09T09:47:20.900Z,37.6471672,-119.4358368,2.58,1.61,md,7,210,0.3188,0.09,nc,nc73830231,2023-01-09T09:48:55.453Z,"16km SE of Yosemite Valley, CA",earthquake,2.39,10.49,0.01,3,automatic,nc,nc
+2023-01-09T09:43:36.417Z,38.211,-116.0908,10.4,1.5,ml,12,182.89,1.139,0.2211,nn,nn00854639,2023-01-09T09:46:26.193Z,"Nevada",earthquake,,1.4,1.16,4,automatic,nn,nn
 2023-01-09T09:21:59.346Z,59.5505,-153.0293,96.8,2.1,ml,,,,0.3,ak,ak023f1bni6,2023-01-09T09:24:19.756Z,"66 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-09T08:56:31.430Z,19.179500579834,-155.498001098633,32.189998626709,1.70000005,md,42,94,,0.119999997,hv,hv73299847,2023-01-09T08:59:45.750Z,"3 km SW of Pāhala, Hawaii",earthquake,0.67,0.839999974,0.639999986,9,automatic,hv,hv
 2023-01-09T08:51:10.540Z,34.1926667,-117.0461667,8.08,1,ml,21,93,0.09621,0.16,ci,ci40154887,2023-01-09T08:54:43.027Z,"6km ESE of Running Springs, CA",earthquake,0.36,0.81,0.101,25,automatic,ci,ci

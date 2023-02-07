@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-07T13:48:13.055Z,65.1925,-149.0319,6.6,1.3,ml,,,,0.6,ak,ak0231r2g50t,2023-02-07T13:53:52.410Z,"15 km ENE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-02-07T13:46:46.869Z,36.69655991,-97.66066742,3.749848604,2.17,ml,26,93.64905167,0.2116625607,0.4580506545,ok,ok2023cqqx,2023-02-07T13:50:29.520Z,"9 km W of Lamont, Oklahoma",earthquake,2.792400667,2.192409728,,20,automatic,ok,ok
+2023-02-07T13:46:46.679Z,36.69983333,-97.6685,7.17,1.82,ml,91,51,0,0.22,ok,ok2023cqqx,2023-02-07T14:01:59.542Z,"9 km W of Lamont, Oklahoma",earthquake,,0.6,0.26,40,reviewed,ok,ok
 2023-02-07T13:27:50.830Z,32.981,-116.4423333,12.5,0.79,ml,16,79,0.02817,0.12,ci,ci40411808,2023-02-07T13:31:30.831Z,"18km SE of Julian, CA",earthquake,0.27,0.59,0.081,8,automatic,ci,ci
-2023-02-07T13:20:51.560Z,38.8258324,-122.7961655,2.62,1.1,md,17,43,0.01113,0.02,nc,nc73842986,2023-02-07T13:36:10.175Z,"6km W of Cobb, CA",earthquake,0.26,0.51,0.23,18,automatic,nc,nc
+2023-02-07T13:20:51.560Z,38.8258324,-122.7961655,2.62,1.1,md,17,43,0.01113,0.02,nc,nc73842986,2023-02-07T13:58:16.326Z,"6km W of Cobb, CA",earthquake,0.26,0.51,0.23,18,automatic,nc,nc
 2023-02-07T13:18:04.580Z,33.4268333,-118.809,4.46,2.83,ml,16,233,0.3305,0.29,ci,ci40411800,2023-02-07T13:21:51.466Z,"24km ESE of Santa Barbara Is., CA",earthquake,1.91,10.2,0.157,25,automatic,ci,ci
 2023-02-07T13:17:56.300Z,38.8310013,-122.8180008,1.72,0.43,md,11,80,0.009799,0.01,nc,nc73842981,2023-02-07T13:46:15.244Z,"8km NW of The Geysers, CA",earthquake,0.3,0.73,0.24,12,automatic,nc,nc
 2023-02-07T13:16:48.770Z,38.8311653,-122.817337,1.82,1.13,md,22,51,0.009612,0.02,nc,nc73842976,2023-02-07T13:34:14.163Z,"8km NW of The Geysers, CA",earthquake,0.2,0.4,0.14,25,automatic,nc,nc
@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T13:08:42.740Z,33.265,-116.4191667,4.53,0.96,ml,29,134,0.003607,0.21,ci,ci40411792,2023-02-07T13:12:22.314Z,"4km WNW of Borrego Springs, CA",earthquake,0.42,0.79,0.151,24,automatic,ci,ci
 2023-02-07T12:35:04.190Z,38.7943344,-122.7590027,2.55,1.06,md,13,76,0.006306,0.02,nc,nc73842971,2023-02-07T13:02:14.989Z,"2km N of The Geysers, CA",earthquake,0.3,0.69,0.31,15,automatic,nc,nc
 2023-02-07T12:21:56.260Z,38.8381653,-122.8356705,1.28,0.82,md,19,79,0.0004467,0.03,nc,nc73842961,2023-02-07T13:52:11.287Z,"10km NW of The Geysers, CA",earthquake,0.21,0.39,0.14,19,automatic,nc,nc
-2023-02-07T12:08:38.510Z,38.7929993,-122.7574997,1.62,2.85,md,65,45,0.007808,0.09,nc,nc73842956,2023-02-07T13:25:11.236Z,"2km N of The Geysers, CA",earthquake,0.14,0.27,0.19,78,automatic,nc,nc
+2023-02-07T12:08:38.510Z,38.7929993,-122.7574997,1.62,2.85,md,65,45,0.007808,0.09,nc,nc73842956,2023-02-07T14:04:14.368Z,"2km N of The Geysers, CA",earthquake,0.14,0.27,0.19,78,automatic,nc,nc
 2023-02-07T12:07:04.188Z,38.1924,38.2586,10,4.4,mb,42,39,1.315,0.67,us,us6000jm7q,2023-02-07T12:48:27.040Z,"11 km S of Yeşilyurt, Turkey",earthquake,4.28,1.847,0.109,24,reviewed,us,us
 2023-02-07T12:01:34.074Z,63.9955,-149.5081,52.5,1.6,ml,,,,1.01,ak,ak0231r1kodb,2023-02-07T12:03:45.925Z,"19 km W of Ferry, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-02-07T12:01:23.940Z,32.9513333,-116.3115,5.2,1.19,ml,26,56,0.007565,0.23,ci,ci40411784,2023-02-07T12:05:01.071Z,"25km NE of Pine Valley, CA",earthquake,0.32,0.59,0.149,21,automatic,ci,ci
@@ -212,6 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T14:10:11.931Z,37.8331,37.4605,16.453,4.5,mb,48,89,0.689,0.64,us,us6000jlsb,2023-02-06T18:26:20.040Z,"14 km S of Nurhak, Turkey",earthquake,5.63,5.044,0.086,40,reviewed,us,us
 2023-02-06T14:09:09.100Z,38.8219986,-122.7965012,3.24,0.77,md,9,77,0.01069,0.01,nc,nc73842626,2023-02-06T14:45:12.350Z,"6km NW of The Geysers, CA",earthquake,0.45,1.42,0.2,11,automatic,nc,nc
 2023-02-06T14:08:23.970Z,38.8248329,-122.810997,1.22,1.31,md,10,88,0.001607,0.02,nc,nc73842616,2023-02-06T17:08:14.178Z,"7km NW of The Geysers, CA",earthquake,0.32,0.86,0.38,11,automatic,nc,nc
-2023-02-06T14:04:50.340Z,38.0339,36.5452,10,4.4,mb,46,72,0.984,0.74,us,us6000jls9,2023-02-06T17:26:32.040Z,"4 km ENE of Göksun, Turkey",earthquake,2.26,1.921,0.112,23,reviewed,us,us
-2023-02-06T14:04:23.730Z,38.8260002,-122.8105011,1.35,1.08,md,18,65,0.002623,0.02,nc,nc73842606,2023-02-06T16:41:18.012Z,"7km NW of The Geysers, CA",earthquake,0.2,0.59,0.2,19,automatic,nc,nc
-2023-02-06T14:02:33.010Z,58.1701666666667,-155.331833333333,1.39,0.2,ml,5,257,,0.05,av,av91755941,2023-02-07T04:16:20.540Z,"84 km NW of Karluk, Alaska",earthquake,0.57,0.5,0.170549480226753,5,reviewed,av,av

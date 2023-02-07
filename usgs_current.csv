@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T21:52:30.280Z,37.8691673,-122.2488327,9.78,1.99,md,50,36,0.003577,0.06,nc,nc73842756,2023-02-07T12:27:03.140Z,"2km E of Berkeley, CA",earthquake,0.14,0.38,0.2,37,automatic,nc,nc
 2023-02-06T21:44:09.125Z,61.4316,-150.1791,32,1.7,ml,,,,0.68,ak,ak0231pjne6o,2023-02-06T21:46:07.692Z,"13 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-06T21:39:44.000Z,19.1593341827393,-155.516662597656,30.0300006866455,1.86000001,md,35,247,,0.170000002,hv,hv73320542,2023-02-06T21:42:53.040Z,"6 km SW of Pāhala, Hawaii",earthquake,0.97,1.23000002,0.75,17,automatic,hv,hv
-2023-02-06T21:34:03.067Z,-24.2961,-67.4427,198.16,4.7,mb,21,93,1.499,1.06,us,us6000jm33,2023-02-06T21:52:21.040Z,"114 km W of San Antonio de los Cobres, Argentina",earthquake,10.22,11.55,0.147,14,reviewed,us,us

@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-09T04:07:58.590Z,19.2395000457764,-155.398330688477,31.1200008392334,1.73000002,md,19,183,,0.109999999,hv,hv73321797,2023-02-09T04:11:07.440Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.77,1.13999999,0.980000019,3,automatic,hv,hv
+2023-02-09T03:59:50.030Z,38.7871666,-122.7679977,2.53,0.77,md,7,112,0.01652,0.02,nc,nc73843776,2023-02-09T04:11:11.252Z,"2km NW of The Geysers, CA",earthquake,0.42,1.14,0.05,6,automatic,nc,nc
 2023-02-09T03:50:05.889Z,63.5757,-147.2468,3.5,2.2,ml,,,,0.4,ak,ak0231u7kwto,2023-02-09T03:51:35.073Z,"84 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-09T03:36:20.760Z,35.9553333,-117.9103333,8.49,0.88,ml,10,134,0.0754,0.09,ci,ci40412464,2023-02-09T03:39:48.358Z,"2km N of Little Lake, CA",earthquake,0.32,0.69,0.18,8,automatic,ci,ci
 2023-02-09T03:34:19.040Z,33.3441667,-116.2423333,9.37,0.74,ml,18,104,0.1514,0.15,ci,ci40412456,2023-02-09T03:37:59.758Z,"16km NE of Borrego Springs, CA",earthquake,0.36,1.56,0.126,13,automatic,ci,ci
@@ -34,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T23:58:29.120Z,37.3009987,-121.6705017,5.39,1.61,md,11,123,0.04628,0.05,nc,nc73843726,2023-02-09T03:52:11.136Z,"15km E of Seven Trees, CA",earthquake,0.28,0.53,0.14,7,automatic,nc,nc
 2023-02-08T23:48:28.370Z,33.4928333,-116.8345,19.34,0.6,ml,13,113,0.03455,0.24,ci,ci40412440,2023-02-08T23:52:06.427Z,"6km NNE of Aguanga, CA",earthquake,0.91,2.04,0.233,8,automatic,ci,ci
 2023-02-08T23:42:44.250Z,38.8235016,-122.8511658,2.23,0.94,md,18,60,0.006015,0.01,nc,nc73843716,2023-02-09T00:00:13.826Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.47,0.2,19,automatic,nc,nc
-2023-02-08T23:26:12.030Z,38.8423347,-122.7648315,18.97,1.26,md,6,197,0.01249,0.07,nc,nc73843711,2023-02-09T03:01:10.804Z,"4km WNW of Cobb, CA",earthquake,3.44,2.22,,1,automatic,nc,nc
+2023-02-08T23:26:12.030Z,38.8423347,-122.7648315,18.97,1.26,md,6,197,0.01249,0.07,nc,nc73843711,2023-02-09T03:57:16.170Z,"4km WNW of Cobb, CA",earthquake,3.44,2.22,,1,automatic,nc,nc
 2023-02-08T23:04:49.160Z,-20.7172,-68.8986,103.656,4.1,mb,19,95,0.639,0.78,us,us6000jmlp,2023-02-09T00:01:14.040Z,"Tarapaca, Chile",earthquake,6.13,7.187,0.198,7,reviewed,us,us
 2023-02-08T22:48:46.073Z,63.32,-144.9231,3.4,1.2,ml,,,,0.43,ak,ak0231svcggz,2023-02-08T22:51:12.686Z,"39 km SSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-08T22:36:50.425Z,38.2174,38.2049,16.084,4,mb,29,91,1.309,0.6,us,us6000jmll,2023-02-08T22:47:15.040Z,"9 km SSW of Yeşilyurt, Turkey",earthquake,4.93,5.752,0.183,8,reviewed,us,us
@@ -261,6 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T04:40:07.160Z,44.7923333,-110.9685,8.56,0.47,md,7,232,0.04253,0.15,uu,uu60530501,2023-02-08T18:11:32.840Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,1.05,0.65,0.416,5,reviewed,uu,uu
 2023-02-08T04:37:28.472Z,64.568,-150.2435,15.4,1.1,ml,,,,0.27,ak,ak0231skk9db,2023-02-08T04:39:32.704Z,"51 km SSE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-08T04:13:22.750Z,37.4763336,-118.7448349,4.1,1.64,md,14,145,0.1318,0.02,nc,nc73843301,2023-02-08T06:40:37.324Z,"11km SSW of Toms Place, CA",earthquake,0.59,2.7,0.11,14,automatic,nc,nc
-2023-02-08T04:04:21.717Z,63.1035,-151.386,0,1.5,ml,,,,0.9,ak,ak0231skd67v,2023-02-08T04:15:43.576Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-02-08T04:03:28.000Z,58.191,-155.313166666667,2.59,0.77,ml,8,221,,0.11,av,av91756581,2023-02-09T01:28:51.640Z,"85 km NW of Karluk, Alaska",earthquake,0.49,0.3,0.291437447666079,8,reviewed,av,av
-2023-02-08T04:01:16.829Z,32.265,49.7516,10,4.3,mb,21,86,4.92,0.47,us,us6000jmfb,2023-02-08T05:24:30.040Z,"55 km NE of Masjed Soleymān, Iran",earthquake,7.44,1.826,0.153,12,reviewed,us,us

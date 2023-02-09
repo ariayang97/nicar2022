@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T09:08:43.416Z,37.4655,-116.5678,15,0.1,ml,4,307.82,0.201,0.1113,nn,nn00855854,2023-02-08T22:02:45.848Z,"Nevada",earthquake,,5.9,1.11,4,reviewed,nn,nn
 2023-02-08T09:05:03.050Z,33.505,-116.4531667,5.88,1.47,ml,57,54,0.02938,0.21,ci,ci40412192,2023-02-08T14:55:22.290Z,"21km ESE of Anza, CA",earthquake,0.2,0.48,0.21,25,reviewed,ci,ci
 2023-02-08T09:01:10.500Z,33.9743333,-116.4788333,8.65,0.89,ml,29,102,0.06722,0.15,ci,ci40412184,2023-02-08T17:34:04.491Z,"3km NE of Desert Hot Springs, CA",earthquake,0.24,0.57,0.135,11,reviewed,ci,ci
-2023-02-08T08:48:09.200Z,38.8271675,-122.7971649,2.6,1.05,md,20,36,0.01076,0.02,nc,nc73843446,2023-02-08T09:45:18.543Z,"6km W of Cobb, CA",earthquake,0.25,0.55,0.19,20,automatic,nc,nc

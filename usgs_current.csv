@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T10:12:07.927Z,61.3857,-149.9625,42.1,1.9,ml,,,,0.82,ak,ak0232t1t3dk,2023-03-02T19:30:10.989Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-02T10:10:11.080Z,38.7919998,-122.7613297,1.07,1.03,md,10,63,0.008705,0.02,nc,nc73854331,2023-03-02T12:38:15.272Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.5,0.27,11,automatic,nc,nc
 2023-03-02T10:08:50.690Z,62.9349,-148.1629,62,1,ml,,,,0.28,ak,ak0232t1sanf,2023-03-02T18:14:37.677Z,"Central Alaska",earthquake,,1,,,reviewed,ak,ak
-2023-03-02T09:56:40.758Z,61.1737,-147.308,3,1.8,ml,,,,0.34,ak,ak0232t1h5t7,2023-03-02T10:14:19.870Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-02T09:51:39.056Z,13.6991,120.7072,130.569,4.5,mb,41,117,17.717,0.65,us,us7000jgsn,2023-03-02T11:46:24.040Z,"Mindoro, Philippines",earthquake,13.11,7.768,0.083,43,reviewed,us,us

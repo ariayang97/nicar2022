@@ -331,5 +331,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T03:41:36.284Z,31.56530661,-104.137579,6.684289551,2.7,ml,29,63,0.01637157708,0.2,tx,tx2023eunn,2023-03-10T19:57:01.829Z,"42 km NW of Toyah, Texas",earthquake,0.5891581722,0.4621302784,0.1,19,reviewed,tx,tx
 2023-03-10T03:30:32.796Z,62.0049,-149.5396,41.9,1.6,ml,,,,0.64,ak,ak0233661qwf,2023-03-10T03:32:30.922Z,"23 km SE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-10T03:29:21.400Z,38.7616667,-122.7268333,1.97,0.36,md,7,110,0.001544,0.01,nc,nc73854880,2023-03-10T18:29:19.741Z,"3km SE of The Geysers, CA",earthquake,0.6,1.12,0.112,4,reviewed,nc,nc
-2023-03-10T02:56:39.654Z,51.8879,-178.0986,7.639,2.7,ml,16,110,0.031,0.29,us,us7000jizj,2023-03-11T00:37:46.040Z,"100 km W of Adak, Alaska",earthquake,1.31,1.278,0.105,12,reviewed,us,us
-2023-03-10T02:54:09.476Z,59.915,-150.9805,21.5,1.5,ml,,,,0.2,ak,ak023365leoj,2023-03-10T02:55:36.112Z,"6 km N of Fox River, Alaska",earthquake,,0.4,,,automatic,ak,ak

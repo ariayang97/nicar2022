@@ -1,13 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-22T15:01:58.121Z,61.6232,-148.1575,25.1,1.5,ml,,,,0.88,ak,ak0233q7gy9w,2023-03-22T15:04:07.687Z,"25 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-22T14:54:47.634Z,62.1538,-145.5707,20,2.2,ml,,,,0.84,ak,ak0233q76ut7,2023-03-22T14:56:39.086Z,"5 km NNW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-22T14:34:05.582Z,58.1888,-137.3575,16.6,3.9,ml,,,,0.74,ak,ak0233q72h6o,2023-03-22T14:40:55.665Z,"59 km W of Elfin Cove, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-22T14:50:33.977Z,47.4002,6.8651,9.025,4.2,mb,34,87,0.84,0.96,us,us7000jlxj,2023-03-22T15:12:57.040Z,"France",earthquake,2.54,5.625,0.263,4,reviewed,us,us
+2023-03-22T14:34:05.582Z,58.1888,-137.3575,16.6,3.9,ml,,,,0.74,ak,ak0233q72h6o,2023-03-22T15:07:14.040Z,"59 km W of Elfin Cove, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-22T14:24:02.470Z,33.6016667,-116.7268333,15.77,1.23,ml,27,64,0.03211,0.22,ci,ci40188303,2023-03-22T14:35:02.390Z,"7km NW of Anza, CA",earthquake,0.36,0.6,0.189,18,automatic,ci,ci
 2023-03-22T14:16:46.540Z,-30.2645,-177.3161,10,5.5,mb,53,67,1.129,0.96,us,us7000jlxe,2023-03-22T14:48:57.693Z,"Kermadec Islands, New Zealand",earthquake,8.17,1.879,0.047,159,reviewed,us,us
 2023-03-22T14:16:10.870Z,38.8481674,-122.8174973,2.01,0.74,md,10,88,0.007932,0.02,nc,nc73860600,2023-03-22T14:33:17.795Z,"9km WNW of Cobb, CA",earthquake,0.38,0.99,0.45,12,automatic,nc,nc
 2023-03-22T14:00:34.681Z,59.9596,-151.8405,5.9,1.8,ml,,,,1.16,ak,ak0233q6v958,2023-03-22T14:02:25.474Z,"6 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-22T13:57:45.410Z,61.476,-151.6366,71,1.4,ml,,,,0.26,ak,ak0233q6m26l,2023-03-22T13:59:37.200Z,"47 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-22T13:50:44.160Z,32.9821667,-115.5366667,7.86,2.3,ml,28,89,0.06763,0.29,ci,ci40188295,2023-03-22T14:01:44.020Z,"1km WNW of Brawley, CA",earthquake,0.43,1.09,0.2,26,automatic,ci,ci
-2023-03-22T13:30:01.670Z,38.8274994,-122.8036652,1.79,0.8,md,8,72,0.00647,0.02,nc,nc73860590,2023-03-22T13:46:14.454Z,"7km NW of The Geysers, CA",earthquake,0.41,0.94,0.19,10,automatic,nc,nc
+2023-03-22T13:30:01.670Z,38.8274994,-122.8036652,1.79,0.8,md,8,72,0.00647,0.02,nc,nc73860590,2023-03-22T15:13:10.006Z,"7km NW of The Geysers, CA",earthquake,0.41,0.94,0.19,10,automatic,nc,nc
 2023-03-22T13:04:53.350Z,38.8046684,-122.7716675,1.36,0.75,md,9,109,0.01018,0.02,nc,nc73860585,2023-03-22T13:28:14.324Z,"3km NNW of The Geysers, CA",earthquake,0.43,0.76,0.14,8,automatic,nc,nc
 2023-03-22T12:59:34.990Z,38.8349991,-122.8081665,2.04,0.77,md,7,121,0.01168,0.01,nc,nc73860580,2023-03-22T14:46:10.860Z,"8km W of Cobb, CA",earthquake,0.74,2.28,0.62,10,automatic,nc,nc
 2023-03-22T12:55:05.590Z,35.5108333,-118.4081667,11.35,1.06,ml,19,45,0.1608,0.22,ci,ci40188279,2023-03-22T12:58:49.674Z,"12km SE of Bodfish, CA",earthquake,0.38,1.48,0.121,10,automatic,ci,ci
@@ -123,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T20:54:23.150Z,33.5321667,-116.7273333,3.79,0.62,ml,9,225,0.03417,0.07,ci,ci40188023,2023-03-21T21:38:26.365Z,"6km WSW of Anza, CA",earthquake,0.59,31.61,0.07,6,reviewed,ci,ci
 2023-03-21T20:51:25.010Z,33.533,-116.7285,3.79,0.83,ml,8,239,0.03314,0.06,ci,ci40188015,2023-03-21T21:38:32.890Z,"6km WSW of Anza, CA",earthquake,0.62,31.61,0.134,5,reviewed,ci,ci
 2023-03-21T20:49:21.328Z,28.46,-43.7159,10,5,mb,66,117,26.894,0.52,us,us7000jltd,2023-03-21T21:09:23.040Z,"northern Mid-Atlantic Ridge",earthquake,9.45,1.889,0.053,111,reviewed,us,us
-2023-03-21T20:47:34.340Z,33.5295,-116.734,3.1,2.15,ml,64,17,0.03591,0.19,ci,ci40188007,2023-03-21T20:58:41.990Z,"6km WSW of Anza, CA",earthquake,0.16,0.5,0.198,26,automatic,ci,ci
+2023-03-21T20:47:34.340Z,33.5295,-116.734,3.1,2.15,ml,64,17,0.03591,0.19,ci,ci40188007,2023-03-22T15:13:59.093Z,"6km WSW of Anza, CA",earthquake,0.16,0.5,0.198,26,automatic,ci,ci
 2023-03-21T20:47:16.745Z,58.1745,-154.7486,89.8,1.1,ml,,,,0.11,ak,ak0233on6jk7,2023-03-21T20:52:48.457Z,"69 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-21T20:46:54.052Z,28.437,-43.6415,10,5,mb,75,123,31.991,0.64,us,us7000jlte,2023-03-21T21:17:45.040Z,"northern Mid-Atlantic Ridge",earthquake,12.98,1.895,0.069,67,reviewed,us,us
 2023-03-21T20:46:00.230Z,33.5343333,-116.729,4.43,0.82,ml,19,70,0.03175,0.08,ci,ci40187999,2023-03-21T21:36:03.585Z,"6km WSW of Anza, CA",earthquake,0.15,0.24,0.176,11,reviewed,ci,ci
@@ -194,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T15:33:54.408Z,61.4244,-151.1073,61.9,1.7,ml,,,,0.19,ak,ak0233ok4geo,2023-03-21T15:35:22.531Z,"31 km N of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-03-21T15:32:53.590Z,33.7006667,-116.7395,16.79,0.89,ml,21,137,0.02357,0.1,ci,ci40187903,2023-03-21T16:33:21.958Z,"5km SSW of Idyllwild, CA",earthquake,0.23,0.28,0.173,8,reviewed,ci,ci
 2023-03-21T15:16:12.347Z,60.6553,-147.4608,18.7,2.1,ml,,,,0.38,ak,ak0233ok0pzm,2023-03-21T15:17:43.921Z,"48 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-21T15:13:39.221Z,60.7489,-151.898,76.6,1.5,ml,,,,0.49,ak,ak0233ok04wy,2023-03-21T15:16:50.206Z,"Kenai Peninsula, Alaska",earthquake,,1.8,,,automatic,ak,ak

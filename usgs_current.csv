@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-27T15:21:47.279Z,-57.922,-25.6669,46.969,5.5,mww,44,71,7.064,0.72,us,us7000k4gs,2023-05-27T15:39:37.040Z,"South Sandwich Islands region",earthquake,11,6.32,0.093,11,reviewed,us,us
 2023-05-27T14:51:15.350Z,33.7013333,-116.7231667,16.95,0.62,ml,18,64,0.01235,0.12,ci,ci40235199,2023-05-27T14:54:47.452Z,"4km S of Idyllwild, CA",earthquake,0.3,0.45,0.162,18,automatic,ci,ci
 2023-05-27T14:30:32.124Z,60.7689,-146.2247,24.5,1.4,ml,,,,0.49,ak,ak0236rcil0s,2023-05-27T14:32:40.492Z,"26 km ESE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-27T14:24:06.530Z,78.6341,7.2361,10,4.4,mb,18,139,0.964,0.95,us,us7000k4gr,2023-05-27T14:50:39.040Z,"193 km W of Longyearbyen, Svalbard and Jan Mayen",earthquake,4.92,1.889,0.162,11,reviewed,us,us
@@ -217,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T16:01:24.660Z,58.1731666666667,-155.3285,2.29,0.83,ml,11,73,,0.07,av,av91105083,2023-05-27T00:20:28.230Z,"84 km NW of Karluk, Alaska",earthquake,0.19,0.4,0.226752476573547,12,reviewed,av,av
 2023-05-26T16:01:10.820Z,58.1851666666667,-155.279166666667,1.54,-0.13,ml,5,148,,0.03,av,av91772742,2023-05-27T00:16:54.530Z,"84 km NW of Karluk, Alaska",earthquake,0.26,0.83,0.200653731918879,5,reviewed,av,av
 2023-05-26T15:43:06.990Z,36.467,-121.0506667,9.14,2.18,md,51,119,0.0131,0.09,nc,nc73890235,2023-05-26T19:36:10.474Z,"11km SE of Pinnacles, CA",earthquake,0.18,0.28,0.196,53,reviewed,nc,nc
-2023-05-26T15:25:14.600Z,58.2715,-155.131333333333,4.02,-0.38,ml,6,140,,0.21,av,av91105073,2023-05-27T00:10:52.060Z,"87 km NNW of Karluk, Alaska",earthquake,1.55,1.53,0.395800357356817,6,reviewed,av,av
-2023-05-26T15:24:55.170Z,58.2638333333333,-155.131166666667,4.02,-0.88,ml,4,136,,0.01,av,av91772732,2023-05-27T00:03:39.030Z,"87 km NNW of Karluk, Alaska",earthquake,0.66,0.97,0.24809508567723,4,reviewed,av,av

@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-15T05:54:52.828Z,12.4215,47.9004,10,4.5,mb,45,132,5.024,0.43,us,us7000k8lq,2023-06-15T06:26:27.040Z,"143 km NNW of Las Khorey, Somalia",earthquake,9.44,1.874,0.094,34,reviewed,us,us
 2023-06-15T05:46:58.042Z,-23.095,170.3361,10,4.8,mb,34,104,2.708,0.41,us,us7000k8lp,2023-06-15T06:14:53.040Z,"295 km E of Vao, New Caledonia",earthquake,8.36,1.885,0.116,27,reviewed,us,us
 2023-06-15T05:42:53.810Z,34.894,-117.5636667,2.2,1.42,ml,27,53,0.02905,0.17,ci,ci40486336,2023-06-15T05:46:27.838Z,"14km SE of Boron, CA",earthquake,0.31,0.4,0.072,24,automatic,ci,ci
 2023-06-15T05:37:00.053Z,63.0891,-151.1313,3.4,1.2,ml,,,,0.55,ak,ak0237mmephx,2023-06-15T05:38:53.705Z,"58 km SSE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T05:19:51.820Z,35.8343333,-117.7935,2.24,0.64,ml,8,141,0.03468,0.16,ci,ci40486304,2023-06-15T05:23:49.038Z,"15km SE of Little Lake, CA",earthquake,0.42,0.4,0.051,5,automatic,ci,ci
 2023-06-15T05:17:45.900Z,19.32200050354,-155.754165649414,8.82999992370605,1.83000004,md,32,106,,0.209999993,hv,hv73451502,2023-06-15T05:20:48.580Z,"18 km SE of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.560000002,0.910000026,8,automatic,hv,hv
 2023-06-15T05:11:53.178Z,61.5568,-148.1519,52.5,0.7,ml,,,,0.88,ak,ak0237mm98z9,2023-06-15T05:13:46.424Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-06-15T05:01:28.710Z,36.5546684,-121.1299973,2.52,1.57,md,10,140,0.04774,0.11,nc,nc73901271,2023-06-15T05:18:14.759Z,"3km NNE of Pinnacles, CA",earthquake,0.54,1.97,0.08,10,automatic,nc,nc
+2023-06-15T05:01:28.710Z,36.5546684,-121.1299973,2.52,1.57,md,10,140,0.04774,0.11,nc,nc73901271,2023-06-15T06:36:11.207Z,"3km NNE of Pinnacles, CA",earthquake,0.54,1.97,0.08,10,automatic,nc,nc
 2023-06-15T04:59:12.882Z,63.2632,-151.3474,0,1.6,ml,,,,0.67,ak,ak0237mly0mw,2023-06-15T05:01:17.136Z,"36 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-15T04:52:55.285Z,60.4069,-147.7851,9.1,1.9,ml,,,,0.53,ak,ak0237mlwlw8,2023-06-15T04:54:33.332Z,"39 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-15T04:44:09.140Z,35.6483333,-118.3161667,7.52,1.7,ml,24,69,0.05499,0.15,ci,ci40486288,2023-06-15T04:54:30.440Z,"14km ESE of Wofford Heights, CA",earthquake,0.24,0.57,0.241,21,automatic,ci,ci
@@ -184,7 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T06:52:47.810Z,38.8366667,-122.7945,2.15,1.19,md,45,49,0.003683,0.02,nc,nc73900981,2023-06-15T02:15:13.661Z,"6km WNW of Cobb, CA",earthquake,0.13,0.24,0.184,39,reviewed,nc,nc
 2023-06-14T06:52:31.900Z,38.8375015,-122.8010025,1.62,0.71,md,12,65,0.008373,0.03,nc,nc73900976,2023-06-14T07:10:15.911Z,"7km WNW of Cobb, CA",earthquake,0.28,0.66,0.16,12,automatic,nc,nc
 2023-06-14T06:44:29.066Z,55.2638,-159.8007,4.9,1.9,ml,,,,0.66,ak,ak0237kzics5,2023-06-14T14:30:47.981Z,"45 km E of Sand Point, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2023-06-14T06:40:45.240Z,38.8346672,-122.7978363,2.04,1.08,md,18,57,0.006943,0.06,nc,nc73900971,2023-06-14T06:58:13.840Z,"7km WNW of Cobb, CA",earthquake,0.26,0.52,0.13,20,automatic,nc,nc
-2023-06-14T06:32:50.979Z,58.1682,-155.3062,0,0.5,ml,,,,0.3,ak,ak0237kzftyh,2023-06-14T06:34:48.068Z,"83 km NW of Karluk, Alaska",earthquake,,4.2,,,automatic,ak,ak
-2023-06-14T06:28:15.720Z,19.6561,-65.8823,84,3.89,md,15,283,1.3449,0.51,pr,pr2023165006,2023-06-14T07:53:22.040Z,"133 km N of San Juan, Puerto Rico",earthquake,4.62,10.47,0.03,7,reviewed,pr,pr
-2023-06-14T06:21:30.724Z,65.3611,-144.5776,0,1.3,ml,,,,1.1,ak,ak0237kzdfio,2023-06-14T06:23:53.333Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak

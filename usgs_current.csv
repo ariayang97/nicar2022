@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-18T10:59:09.447Z,61.0681,-152.4666,24.3,0.7,ml,,,,0.88,ak,ak02395a92ao,2023-07-18T11:01:11.879Z,"71 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-18T10:53:53.546Z,37.0734,-116.1866,2,0.6,ml,11,128.78,0.134,0.0943,nn,nn00862912,2023-07-18T10:55:42.966Z,"Nevada",earthquake,,0.9,0.77,7,automatic,nn,nn
 2023-07-18T10:44:56.865Z,61.7813,-154.3255,5.4,1,ml,,,,0.41,ak,ak02395a5y5u,2023-07-18T10:47:10.230Z,"75 km NE of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-18T10:32:46.200Z,38.8185005,-122.8021698,3.33,0.72,md,14,59,0.01181,0.01,nc,nc73914256,2023-07-18T10:50:18.182Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.84,0.26,15,automatic,nc,nc
@@ -140,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T13:49:59.685Z,39.1118,-119.729,7.8,0.9,ml,7,94.63,0.047,0.1358,nn,nn00862886,2023-07-17T20:51:19.609Z,"Nevada",earthquake,,2.4,0.08,2,reviewed,nn,nn
 2023-07-17T13:43:42.980Z,36.1885,-118.5041667,6.12,1.43,ml,20,123,0.4086,0.19,ci,ci39614706,2023-07-17T19:18:53.040Z,"45km SE of Three Rivers, CA",earthquake,0.34,4.17,0.164,6,reviewed,ci,ci
 2023-07-17T13:37:45.319Z,58.2525,-155.1631,3.2,2,ml,,,,0.28,ak,ak02393oddmr,2023-07-17T13:59:24.040Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-17T13:31:18.040Z,36.785,-121.3056667,9.48,1.54,md,30,97,0.08406,0.1,nc,nc73913946,2023-07-18T09:34:09.692Z,"1 km ESE of Tres Pinos, CA",earthquake,0.24,0.36,0.294,30,reviewed,nc,nc
+2023-07-17T13:31:18.040Z,36.785,-121.3056667,9.48,1.54,md,30,97,0.08406,0.1,nc,nc73913946,2023-07-18T11:17:24.370Z,"1 km ESE of Tres Pinos, CA",earthquake,0.24,0.36,0.294,30,reviewed,nc,nc
 2023-07-17T13:29:55.135Z,54.6769,-161.0266,35,3.8,mb,11,206,0.745,0.44,us,us7000kgcd,2023-07-17T13:56:08.040Z,"80 km SSW of Sand Point, Alaska",earthquake,4.91,2.012,0.359,2,reviewed,us,us
 2023-07-17T12:55:36.913Z,36.7659,-116.2562,8.6,-0.4,ml,9,126.91,0.03,0.0755,nn,nn00862885,2023-07-17T20:48:10.875Z,"47 km ESE of Beatty, Nevada",earthquake,,1.6,0,1,reviewed,nn,nn
 2023-07-17T12:54:20.726Z,46.0151,151.5327,55.429,4.4,mb,59,135,6.131,0.93,us,us7000kgc4,2023-07-17T13:42:04.040Z,"298 km ENE of Kuril’sk, Russia",earthquake,9.45,7.73,0.059,82,reviewed,us,us
@@ -157,9 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T11:32:33.056Z,32.8697,-100.9608,4.031,2.1,mb_lg,15,52,0.228,0.41,us,us7000kgbt,2023-07-17T14:45:26.988Z,"17 km NNW of Snyder, Texas",earthquake,1.14,6.951,0.114,21,reviewed,us,us
 2023-07-17T11:32:28.600Z,35.8833333,-117.6946667,3.92,0.89,ml,19,62,0.09392,0.11,ci,ci39614658,2023-07-17T19:09:56.969Z,"20km ESE of Little Lake, CA",earthquake,0.2,0.53,0.059,6,reviewed,ci,ci
 2023-07-17T11:31:47.765Z,63.1261,-151.3582,0,1.4,ml,,,,0.67,ak,ak02393n58bc,2023-07-17T11:33:46.216Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-17T11:24:40.096Z,38.5485,-118.1698,7.3,2,ml,9,48.46,0.379,0.1277,nn,nn00862855,2023-07-17T17:45:39.878Z,"18 km NNW of Mina, Nevada",earthquake,,3,0.29,6,reviewed,nn,nn
-2023-07-17T11:17:40.540Z,33.9475,-117.7385,11.82,1.26,ml,49,51,0.0572,0.19,ci,ci39614642,2023-07-17T22:36:42.700Z,"6km SSE of Chino Hills, CA",earthquake,0.24,0.36,0.146,27,reviewed,ci,ci
-2023-07-17T11:10:09.246Z,61.1688,-147.0597,27.3,1.3,ml,,,,0.73,ak,ak02393n0nb0,2023-07-17T11:12:18.473Z,"38 km W of Valdez, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-07-17T11:09:47.100Z,33.471,-116.4915,13.84,0.82,ml,32,98,0.07586,0.2,ci,ci39614634,2023-07-17T21:46:38.052Z,"19km ESE of Anza, CA",earthquake,0.28,0.47,0.122,20,reviewed,ci,ci
-2023-07-17T11:09:38.550Z,33.4736667,-116.4923333,13.76,0.39,ml,20,128,0.09419,0.13,ci,ci37558204,2023-07-17T21:44:50.491Z,"19km ESE of Anza, CA",earthquake,0.34,0.62,0.087,10,reviewed,ci,ci
-2023-07-17T11:05:19.660Z,34.7103333,-120.3146667,5.7,1.04,ml,23,77,0.03805,0.16,ci,ci39614626,2023-07-17T20:24:25.126Z,"5km SW of Los Alamos, CA",earthquake,0.21,0.44,0.07,10,reviewed,ci,ci

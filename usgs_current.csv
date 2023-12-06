@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T11:49:52.290Z,19.2276668548584,-155.447494506836,33.9500007629395,1.89999998,md,27,128,,0.0799999982,hv,hv73674582,2023-12-06T11:53:11.260Z,"Hawaii region, Hawaii",earthquake,0.81,0.720000029,1.96000004,4,automatic,hv,hv
 2023-12-06T11:42:50.286Z,8.458,126.8475,59.195,4.6,mb,27,70,1.866,0.77,us,us7000lgmr,2023-12-06T11:59:52.040Z,"56 km NE of Barcelona, Philippines",earthquake,9.7,5.898,0.125,19,reviewed,us,us
 2023-12-06T11:42:16.964Z,62.9869,-149.578,72.3,2.3,ml,,,,0.59,ak,ak023fmhisvh,2023-12-06T11:44:15.607Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-12-06T11:17:59.678Z,-5.5963,147.1711,167.974,5.1,mww,90,32,3.784,0.69,us,us7000lgmk,2023-12-06T11:32:56.040Z,"eastern New Guinea region, Papua New Guinea",earthquake,8.8,6.498,0.086,13,reviewed,us,us
+2023-12-06T11:17:59.678Z,-5.5963,147.1711,167.974,5.1,mww,90,32,3.784,0.69,us,us7000lgmk,2023-12-06T14:36:14.081Z,"eastern New Guinea region, Papua New Guinea",earthquake,8.8,6.498,0.086,13,reviewed,us,us
 2023-12-06T11:08:33.061Z,61.9665,-149.933,44.1,2,ml,,,,0.92,ak,ak023fmhbju2,2023-12-06T11:10:33.026Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-12-06T10:43:31.220Z,19.2526664733887,-155.393997192383,31.3400001525879,2.13000011,md,42,132,,0.109999999,hv,hv73674522,2023-12-06T10:46:54.680Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.53,0.540000021,0.419999987,17,automatic,hv,hv
 2023-12-06T10:41:23.640Z,8.5625,126.5944,66.563,5.2,mb,83,81,1.792,0.93,us,us7000lgme,2023-12-06T11:14:21.319Z,"35 km NE of Hinatuan, Philippines",earthquake,8.95,6.312,0.057,103,reviewed,us,us
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T04:15:36.320Z,32.7375,-115.8808333,4.79,1.78,ml,42,37,0.09629,0.23,ci,ci40616752,2023-12-06T04:26:17.600Z,"10 km E of Ocotillo, CA",earthquake,0.22,0.64,0.173,27,automatic,ci,ci
 2023-12-06T04:13:44.483Z,31.678,-104.199,4.4681,2.3,ml,21,106,0.1,0.3,tx,tx2023xvry,2023-12-06T04:52:18.035Z,"55 km NW of Toyah, Texas",earthquake,0,1.323232728,0.2,16,automatic,tx,tx
 2023-12-06T04:13:25.415Z,31.672,-104.195,4.6285,2,ml,6,123,0.1,0.1,tx,tx2023xvrx,2023-12-06T04:59:17.063Z,"western Texas",earthquake,0,2.066487706,0.2,6,automatic,tx,tx
-2023-12-06T04:11:51.420Z,32.7378349,-115.8769989,6.93,3.48,ml,98,28,0.09782,0.27,ci,ci40616744,2023-12-06T06:14:09.554Z,"11 km E of Ocotillo, CA",earthquake,0.19,0.74,0.311,17,reviewed,ci,ci
+2023-12-06T04:11:51.420Z,32.7378349,-115.8769989,6.93,3.48,ml,98,28,0.09782,0.27,ci,ci40616744,2023-12-06T14:37:09.211Z,"11 km E of Ocotillo, CA",earthquake,0.19,0.74,0.311,17,reviewed,ci,ci
 2023-12-06T04:07:22.686Z,21.5106,123.1931,20.402,4.6,mb,19,117,2.351,0.98,us,us7000lgl9,2023-12-06T04:24:39.040Z,"173 km NE of Basco, Philippines",earthquake,3.94,6.665,0.243,5,reviewed,us,us
 2023-12-06T04:06:35.130Z,38.8365,-122.808,2.5,0.3,md,15,58,0.01319,0.02,nc,nc73972401,2023-12-06T07:48:13.562Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.43,0.297,16,reviewed,nc,nc
 2023-12-06T04:00:19.918Z,9.2241,126.5931,64.919,4.6,mb,31,132,2.364,0.67,us,us7000lgld,2023-12-06T04:43:12.040Z,"44 km E of Cortes, Philippines",earthquake,11.33,7.598,0.097,32,reviewed,us,us
@@ -192,6 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T14:50:44.620Z,44.7856667,-110.8216667,4.95,0.23,md,6,206,0.0207,0.04,uu,uu60555852,2023-12-05T16:56:40.950Z,"23 km SSW of Mammoth, Wyoming",earthquake,1.16,0.68,0.234,5,reviewed,uu,uu
 2023-12-05T14:48:44.070Z,19.4356670379639,-155.466995239258,4.94000005722046,1.76999998,md,31,47,,0.189999998,hv,hv73673777,2023-12-05T14:54:13.650Z,"Island of Hawaii, Hawaii",earthquake,0.39,1.54999995,0.370000005,20,automatic,hv,hv
 2023-12-05T14:45:03.301Z,9.3615,93.9945,10,4.8,mb,61,47,5.043,0.71,us,us7000lgf0,2023-12-05T15:31:23.040Z,"289 km SSE of Port Blair, India",earthquake,7.98,1.85,0.082,46,reviewed,us,us
-2023-12-05T14:43:17.026Z,41.3159,-118.4217,0.3,1.9,ml,4,141.98,1.13,0.1775,nn,nn00869691,2023-12-05T22:15:02.546Z,"60 km WSW of Orovada, Nevada",earthquake,,9.5,0.16,2,reviewed,nn,nn
-2023-12-05T14:43:11.320Z,44.7611667,-110.9285,9.87,0.76,ml,10,126,0.05536,0.11,uu,uu60555847,2023-12-05T16:50:59.930Z,"17 km NE of West Yellowstone, Montana",earthquake,0.41,0.83,0.287,3,reviewed,uu,uu
-2023-12-05T14:38:41.061Z,62.3817,-151.2119,84.8,2.1,ml,,,,0.38,ak,ak023fkvqy96,2023-12-05T14:40:43.711Z,"26 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak

@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-18T23:33:19.032Z,38.8022,-119.6442,0,1.1,ml,8,152.29,0.094,0.1974,nn,nn00886229,2024-10-18T23:35:47.551Z,"6 km S of Carter Springs, Nevada",earthquake,,14.5,0.14,4,automatic,nn,nn
+2024-10-18T23:21:56.963Z,65.0148,-147.4984,0,0.9,ml,,,,1.02,ak,ak024dfaqxjk,2024-10-18T23:24:43.294Z,"8 km NE of Fox, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-18T23:18:21.338Z,31.679,-104.194,4.4801,2,ml,21,105,0.1,0.4,tx,tx2024unlo,2024-10-18T23:30:41.144Z,"55 km NW of Toyah, Texas",earthquake,0,1.3591842651367,0.2,14,automatic,tx,tx
 2024-10-18T22:56:21.431Z,42.9402,142.145,114.073,4.3,mb,30,101,1.19,0.73,us,us6000nznc,2024-10-18T23:19:16.040Z,"18 km SE of Yūbari, Japan",earthquake,8.68,4.615,0.126,18,reviewed,us,us
 2024-10-18T22:49:17.480Z,19.44366645813,-154.87466430664,2.4100000858307,2.06,ml,27,217,0.04302,0.289999992,hv,hv74503366,2024-10-18T22:52:09.280Z,"5 km ESE of Leilani Estates, Hawaii",earthquake,0.92,0.730000019,2.14,3,automatic,hv,hv
 2024-10-18T22:40:12.810Z,19.14066696167,-155.4538269043,33.240001678467,2.08999991,md,42,175,0.01663,0.140000001,hv,hv74503356,2024-10-18T22:41:49.710Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.69,0.74000001,0.430000007,6,automatic,hv,hv
@@ -70,9 +73,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T13:13:33.170Z,33.4825,-116.445,13.32,0.5,ml,22,73,0.1037,0.13,ci,ci40956024,2024-10-18T21:38:37.809Z,"23 km ESE of Anza, CA",earthquake,0.25,0.6,0.11,6,reviewed,ci,ci
 2024-10-18T13:05:48.790Z,33.3156667,-116.371,7.13,1.25,ml,60,45,0.0115,0.19,ci,ci40956016,2024-10-18T18:50:36.830Z,"7 km N of Borrego Springs, CA",earthquake,0.16,0.33,0.201,29,reviewed,ci,ci
 2024-10-18T13:05:23.890Z,19.050500869751,-155.36532592773,32.880001068115,2.13000011,md,54,211,0.1388,0.150000006,hv,hv74503016,2024-10-18T13:07:17.640Z,"20 km SE of Pāhala, Hawaii",earthquake,0.5,0.660000026,0.150000006,20,automatic,hv,hv
+2024-10-18T13:01:59.140Z,60.515166666667,-152.70933333333,6.4,-0.91,ml,7,157,0.02752,0.06,av,av93321298,2024-10-18T23:50:59.390Z,"77 km W of Salamatof, Alaska",earthquake,0.38,0.65,0.19733455067592,7,reviewed,av,av
 2024-10-18T12:57:51.628Z,58.1582,-154.2644,40.5,1.3,ml,,,,0.83,ak,ak024df4ev96,2024-10-18T12:59:23.274Z,"66 km N of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-10-18T12:55:22.140Z,46.870666666667,-121.96166666667,9.18,0.64,ml,23,153,0.00694,0.09,uw,uw62055266,2024-10-18T20:15:11.020Z,"13 km NNE of Ashford, Washington",earthquake,0.22,0.34,0.14308185267705,13,reviewed,uw,uw
+2024-10-18T12:48:06.940Z,54.14,-165.97366666667,2.99,-0.26,ml,7,89,0.01563,0.27,av,av93024454,2024-10-18T23:40:56.030Z,"12 km W of Akutan, Alaska",earthquake,0.37,0.77,0.2647243221635,7,reviewed,av,av
 2024-10-18T12:44:51.243Z,39.6164,-107.3767,5,2.9,ml,14,61,0.186,0.42,us,us6000nzip,2024-10-18T19:31:35.030Z,"7 km NE of Chacra, Colorado",earthquake,1.75,1.952,0.057,40,reviewed,us,us
+2024-10-18T12:38:30.510Z,53.4115,-168.1095,5.05,-0.85,ml,5,85,0.02219,0.13,av,av93024449,2024-10-18T23:35:33.640Z,"72 km NE of Nikolski, Alaska",earthquake,0.46,1.17,0.17959890727075,4,reviewed,av,av
 2024-10-18T12:38:17.518Z,61.0159,-150.8317,43,1.6,ml,,,,0.47,ak,ak024df4aq0n,2024-10-18T12:40:05.225Z,"12 km NW of Point Possession, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-10-18T12:07:17.005Z,61.1767,-150.2456,3.7,1.5,ml,,,,0.87,ak,ak024df442sd,2024-10-18T12:09:40.738Z,"19 km WSW of Anchorage, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-18T11:59:17.950Z,37.2936668396,-121.67183685303,1.1799999475479,1.97,md,26,50,0.03464,0.07,nc,nc75075751,2024-10-18T12:27:17.624Z,"15 km E of Seven Trees, CA",earthquake,0.18,0.519999981,0.1,20,automatic,nc,nc
@@ -191,6 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T00:14:38.430Z,51.897,179.59616666667,9.71,0.08,ml,4,248,0.02178,0.13,av,av93320858,2024-10-18T17:16:26.780Z,"259 km W of Adak, Alaska",earthquake,0.94,0.76,0.34206631250516,4,reviewed,av,av
 2024-10-18T00:13:15.860Z,38.833999633789,-122.80249786377,1.2400000095367,0.65,md,8,72,0.01046,0.01,nc,nc75075611,2024-10-18T00:47:17.638Z,"7 km WNW of Cobb, CA",earthquake,0.37,1.38,0.07,9,automatic,nc,nc
 2024-10-18T00:04:28.920Z,62.5551,-152.1775,3.7,1.3,ml,,,,0.54,ak,ak024dewy9e5,2024-10-18T00:07:04.982Z,"72 km W of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-17T23:54:27.053Z,63.9448,-149.0291,0,2.3,ml,,,,0.68,ak,ak024ddneldd,2024-10-17T23:56:32.781Z,"9 km SSE of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-17T23:53:55.460Z,33.3031667,-116.3283333,11.15,1.37,ml,53,47,0.0401,0.18,ci,ci40955816,2024-10-18T00:27:41.480Z,"7 km NE of Borrego Springs, CA",earthquake,0.19,0.32,0.194,24,reviewed,ci,ci
-2024-10-17T23:22:37.975Z,62.2893,-148.8638,30,1.7,ml,,,,0.61,ak,ak024ddn7rat,2024-10-17T23:24:34.732Z,"53 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak

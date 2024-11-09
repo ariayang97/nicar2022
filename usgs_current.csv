@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-09T03:53:43.310Z,38.788833618164,-122.72250366211,2.0999999046326,1.29,md,17,88,0.01244,0.03,nc,nc75084291,2024-11-09T03:55:21.673Z,"3 km NW of Anderson Springs, CA",earthquake,0.29,0.50999999,0.2,16,automatic,nc,nc
+2024-11-09T04:16:18.230Z,38.821666717529,-122.79983520508,1.789999961853,0.76,md,11,82,0.008182,0.01,nc,nc75084296,2024-11-09T04:32:15.533Z,"6 km NNW of The Geysers, CA",earthquake,0.32,0.790000021,0.37,13,automatic,nc,nc
+2024-11-09T04:04:18.794Z,62.1125,-150.772,59.9,2,ml,,,,0.54,ak,ak024efd5lsz,2024-11-09T04:07:04.470Z,"35 km ENE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-09T03:53:43.310Z,38.788833618164,-122.72250366211,2.0999999046326,1.29,md,17,88,0.01244,0.03,nc,nc75084291,2024-11-09T04:17:18.040Z,"3 km NW of Anderson Springs, CA",earthquake,0.29,0.50999999,0.2,16,automatic,nc,nc
+2024-11-09T03:53:23.071Z,19.5532,-156.6807,10,2.7,ml,13,326,0.807,0.44,us,us7000nqu8,2024-11-09T04:22:38.040Z,"72 km W of Kailua-Kona, Hawaii",earthquake,3.54,2.001,0.077,22,reviewed,us,us
 2024-11-09T03:33:05.411Z,59.9129,-154.2031,198.7,2.1,ml,,,,0.33,ak,ak024efcqcx9,2024-11-09T03:36:02.483Z,"15 km NNW of Pedro Bay, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2024-11-09T03:26:41.360Z,33.7486667,-116.8895,8.01,0.51,ml,12,216,0.06776,0.1,ci,ci40790447,2024-11-09T03:32:36.959Z,"0 km ENE of Valle Vista, CA",earthquake,0.49,0.67,0.26,8,automatic,ci,ci
 2024-11-09T03:25:04.380Z,33.9996681,-118.3741684,4.5,1.33,ml,12,168,0.1503,0.33,ci,ci40790439,2024-11-09T03:31:30.352Z,"0 km SSW of Baldwin Hills, CA",earthquake,1.17,2.68,0.446,23,automatic,ci,ci
@@ -114,6 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T15:47:05.500Z,35.8418333,-117.6695,9.86,0.81,ml,23,50,0.06403,0.16,ci,ci40789935,2024-11-08T20:08:19.344Z,"24 km ESE of Little Lake, CA",earthquake,0.2,0.48,0.179,8,reviewed,ci,ci
 2024-11-08T15:40:32.196Z,53.1928,159.4657,75.156,4.4,mb,43,163,0.52,0.7,us,us7000nqm2,2024-11-08T17:22:00.040Z,"57 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.35,5.273,0.085,40,reviewed,us,us
 2024-11-08T15:35:22.610Z,33.7263333,-116.7958333,14.94,0.55,ml,17,194,0.06973,0.09,ci,ci40789927,2024-11-08T18:41:11.632Z,"7 km WSW of Idyllwild, CA",earthquake,0.28,0.33,0.204,7,reviewed,ci,ci
+2024-11-08T15:34:40.570Z,58.236833333333,-155.10683333333,4.13,-0.62,ml,6,112,0.059,0.06,av,av93026449,2024-11-09T04:48:58.240Z,"83 km NNW of Karluk, Alaska",earthquake,0.29,0.89,0.24518026019461,6,reviewed,av,av
 2024-11-08T15:33:10.750Z,40.308834075928,-123.64749908447,25.590000152588,1.6,md,9,165,0.08903,0.09,nc,nc75083976,2024-11-08T15:49:30.581Z,"26 km NE of Redway, CA",earthquake,0.9,1.79999995,0.23,2,automatic,nc,nc
 2024-11-08T15:24:32.160Z,34.2711667,-116.4023333,3.82,1.74,ml,53,49,0.02605,0.14,ci,ci40789919,2024-11-08T21:10:13.610Z,"17 km NNW of Joshua Tree, CA",earthquake,0.15,0.28,0.138,26,reviewed,ci,ci
 2024-11-08T15:18:47.090Z,40.305667877197,-123.65766906738,23.079999923706,2.63,md,32,48,0.09723,0.09,nc,nc75083966,2024-11-08T15:42:16.532Z,"25 km NE of Redway, CA",earthquake,0.28,0.550000012,0.09,30,automatic,nc,nc
@@ -207,9 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T05:00:54.909Z,29.9346,92.3024,10,4.6,mb,42,103,6.516,0.58,us,us7000nqjm,2024-11-08T06:36:09.040Z,"120 km ENE of Lhasa, China",earthquake,10.17,1.873,0.098,31,reviewed,us,us
 2024-11-08T04:50:33.530Z,47.1105,-113.46,8.37,0.9,ml,7,107,0.1334,0.04,mb,mb90065473,2024-11-08T19:16:35.860Z,"7 km SSE of Seeley Lake, Montana",earthquake,0.37,1.15,0.066717945096321,6,reviewed,mb,mb
 2024-11-08T04:49:45.780Z,44.994333333333,-111.75266666667,5.96,0.52,ml,8,152,0.05044,0.13,mb,mb90065468,2024-11-08T19:03:57.470Z,"36 km SSE of Virginia City, Montana",earthquake,1.64,1.43,0.10402893272088,5,reviewed,mb,mb
-2024-11-08T04:44:06.768Z,47.1512,-113.4352,10,2.6,ml,11,95,0.299,0.26,us,us7000nqjh,2024-11-08T16:10:18.195Z,"4 km SE of Seeley Lake, Montana",earthquake,2.35,2.009,0.05,52,reviewed,us,us
-2024-11-08T04:43:39.710Z,47.125166666667,-113.44766666667,10.17,1.93,ml,25,66,0.1208,0.15,mb,mb90065448,2024-11-08T15:17:24.080Z,"6 km SSE of Seeley Lake, Montana",earthquake,0.41,0.91,0.11701568459217,13,reviewed,mb,mb
-2024-11-08T04:26:10.969Z,36.401,-117.1305,0,1,ml,9,173.97,0.525,0.311,nn,nn00887313,2024-11-08T04:29:34.188Z,"25 km WSW of Furnace Creek, California",earthquake,,58.4,0.46,7,automatic,nn,nn
-2024-11-08T04:23:47.250Z,46.194833333333,-122.1835,7.34,-0.08,ml,6,159,0.005545,0.1,uw,uw62059256,2024-11-08T19:45:19.470Z,"37 km NNE of Amboy, Washington",earthquake,0.52,0.69,0.094076161455144,4,reviewed,uw,uw
-2024-11-08T04:21:30.540Z,33.395,-116.4203333,11.13,1.06,ml,62,29,0.08135,0.2,ci,ci40789743,2024-11-08T21:12:01.950Z,"16 km NNW of Borrego Springs, CA",earthquake,0.17,0.3,0.138,28,reviewed,ci,ci
-2024-11-08T04:05:05.430Z,51.719833333333,-178.6385,20.13,1.92,ml,10,129,0.09255,0.13,av,av93355613,2024-11-08T22:48:04.080Z,"139 km W of Adak, Alaska",earthquake,0.91,1.46,0.34612250500612,10,reviewed,av,av

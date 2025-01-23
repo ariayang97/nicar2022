@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-23T23:05:29.874Z,39.1112,-119.057,6.9,1.3,ml,8,104.24,0.059,0.1026,nn,nn00892442,2025-01-23T23:07:54.327Z,"16 km NNE of Yerington, Nevada",earthquake,,0.8,0.27,5,automatic,nn,nn
+2025-01-23T23:02:10.917Z,39.1221,-119.0353,10.3,2.1,ml,21,83.7,0.047,0.3489,nn,nn00892439,2025-01-23T23:04:27.747Z,"18 km NE of Yerington, Nevada",earthquake,,0.4,0.31,11,automatic,nn,nn
+2025-01-23T22:44:55.981Z,58.0326,-154.7761,37.2,1,ml,,,,1.29,ak,ak02512eq2hq,2025-01-23T22:47:19.159Z,"55 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-01-23T22:41:48.666Z,36.1342,-115.2261,4.7,1.8,ml,14,291.48,0.375,0.334,nn,nn00892437,2025-01-23T22:44:37.625Z,"3 km NNE of Spring Valley, Nevada",earthquake,,1.6,0.22,11,automatic,nn,nn
+2025-01-23T22:37:18.900Z,38.839500427246,-122.82199859619,2.039999961853,1.48,md,28,77,0.01057,0.02,nc,nc75121876,2025-01-23T22:38:56.190Z,"9 km WNW of Cobb, CA",earthquake,0.19,0.379999995,0.14,28,automatic,nc,nc
+2025-01-23T22:27:40.160Z,17.984666666667,-66.826833333333,17.18,2.54,md,6,184,0.04132,0.08,pr,pr71471358,2025-01-23T22:49:05.030Z,"1 km SW of Indios, Puerto Rico",earthquake,0.63,0.55,0.27651162130878,4,reviewed,pr,pr
 2025-01-23T22:19:24.990Z,38.80683517456,-122.78316497803,3.1900000572205,0.75,md,10,62,0.006701,0.01,nc,nc75121871,2025-01-23T22:21:00.797Z,"4 km NNW of The Geysers, CA",earthquake,0.42,1.17999995,0.07,10,automatic,nc,nc
 2025-01-23T22:11:29.438Z,31.637,-104.439,3.5283,1.6,ml,17,92,0,0.5,tx,tx2025bpwz,2025-01-23T22:20:08.430Z,"60 km S of Whites City, New Mexico",earthquake,0,1.4012277126312,0.2,13,automatic,tx,tx
 2025-01-23T22:10:49.280Z,33.6821667,-116.694,16.34,1.13,ml,33,29,0.02142,0.16,ci,ci41034600,2025-01-23T22:15:54.810Z,"7 km SSE of Idyllwild, CA",earthquake,0.24,0.4,0.172,27,automatic,ci,ci
@@ -52,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-23T15:54:07.730Z,35.676,-117.568,8.99,1.34,ml,29,72,0.08103,0.11,ci,ci41034184,2025-01-23T18:13:48.938Z,"12 km ENE of Ridgecrest, CA",earthquake,0.13,0.42,0.169,25,reviewed,ci,ci
 2025-01-23T15:52:47.451Z,63.2666,-151.7724,5.6,1.6,ml,,,,0.75,ak,ak02512alqbt,2025-01-23T15:55:42.445Z,"30 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-23T15:25:07.288Z,61.6569,-147.5384,31.8,1.4,ml,,,,0.6,ak,ak02512afuw8,2025-01-23T15:26:34.291Z,"17 km SSE of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2025-01-23T15:15:58.740Z,19.492,-155.99233333333,6.85,2.65,ml,50,249,0.1623,0.26,hv,hv74599372,2025-01-23T22:26:45.916Z,"7 km W of Captain Cook, Hawaii",earthquake,0.78,0.41,0.21537080263493,35,reviewed,hv,hv
+2025-01-23T15:15:58.740Z,19.492,-155.99233333333,6.85,2.65,ml,50,249,0.1623,0.26,hv,hv74599372,2025-01-23T22:52:46.183Z,"7 km W of Captain Cook, Hawaii",earthquake,0.78,0.41,0.21537080263493,35,reviewed,hv,hv
 2025-01-23T15:14:33.866Z,62.7807,-149.5367,74.6,3.5,ml,,,,0.37,ak,ak02512adk2h,2025-01-23T15:49:49.040Z,"46 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-23T15:04:46.722Z,53.0449,159.8085,48.845,4.8,mb,53,130,30.223,0.88,us,us6000plt6,2025-01-23T15:24:28.040Z,"79 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,13.03,7.227,0.049,127,reviewed,us,us
 2025-01-23T14:36:26.385Z,32.408,-101.478,2.343,1.1,ml,5,141,0.1,0.4,tx,tx2025bpib,2025-01-23T15:15:42.052Z,"17 km N of Big Spring, Texas",earthquake,0,3.7659821510315,0.3,6,automatic,tx,tx
@@ -84,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-23T11:14:03.975Z,-12.8369,168.919,621.413,5.6,mww,77,34,3.082,0.71,us,us6000plst,2025-01-23T17:42:42.040Z,"187 km NE of Sola, Vanuatu",earthquake,7.77,7.156,0.061,26,reviewed,us,us
 2025-01-23T11:09:17.602Z,62.7516,-148.8258,10.3,1.7,ml,,,,0.46,ak,ak025127yptc,2025-01-23T11:10:58.950Z,"71 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-23T11:02:23.090Z,38.823165893555,-122.76183319092,1.8500000238419,0.7,md,8,205,0.009646,0.01,nc,nc75121661,2025-01-23T11:03:59.983Z,"3 km WNW of Cobb, CA",earthquake,0.72,0.829999983,0.06,9,automatic,nc,nc
-2025-01-23T10:49:14.230Z,47.270168304443,-122.9571685791,36.889999389648,1.6343754529953,ml,38,62,,0.349999994,uw,uw62071876,2025-01-23T10:51:43.290Z,"11 km SW of Grapeview, Washington",earthquake,0.76,2.42000008,0.15854954719543,11,automatic,uw,uw
+2025-01-23T10:49:15.050Z,47.265,-122.8895,23.09,1.42,ml,52,32,0.0579,0.21,uw,uw62071876,2025-01-23T22:33:21.050Z,"8 km SSW of Grapeview, Washington",earthquake,0.22,0.44,0.14032548322473,35,reviewed,uw,uw
 2025-01-23T10:35:55.490Z,38.835166931152,-122.8004989624,2.2400000095367,1.09,md,12,65,0.008566,0.01,nc,nc75121651,2025-01-23T10:37:29.636Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.970000029,0.15,13,automatic,nc,nc
 2025-01-23T10:34:34.770Z,34.0168333,-118.1743333,3.09,1.06,ml,11,119,0.02038,0.15,ci,ci41034024,2025-01-23T10:39:07.879Z,"2 km SSW of East Los Angeles, CA",earthquake,0.47,0.49,0.209,31,automatic,ci,ci
 2025-01-23T10:28:22.980Z,33.6518333,-116.7148333,15.51,0.53,ml,26,76,0.03822,0.17,ci,ci41034016,2025-01-23T21:24:47.019Z,"10 km S of Idyllwild, CA",earthquake,0.26,0.45,0.202,9,reviewed,ci,ci
@@ -183,8 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T23:27:04.710Z,33.6928333,-116.793,14.91,0.37,ml,11,156,0.07086,0.11,ci,ci37694428,2025-01-23T17:51:13.282Z,"9 km SW of Idyllwild, CA",earthquake,0.42,0.61,0.096,9,reviewed,ci,ci
 2025-01-22T23:26:54.200Z,33.691,-116.7933333,15.76,0.59,ml,19,123,0.07169,0.1,ci,ci41033616,2025-01-23T17:47:25.418Z,"9 km SW of Idyllwild, CA",earthquake,0.27,0.4,0.08,8,reviewed,ci,ci
 2025-01-22T23:09:04.977Z,36.9676,139.358,10,4.5,mb,49,121,1.018,0.81,us,us6000plqf,2025-01-22T23:35:30.040Z,"16 km NNE of Katashina, Japan",earthquake,6.81,1.87,0.081,45,reviewed,us,us
-2025-01-22T22:58:01.410Z,37.628333333333,-118.82533333333,1.71,0.37,md,9,176,0.008708,0.04,nc,nc75121441,2025-01-23T21:48:03.363Z,"14 km ESE of Mammoth Lakes, CA",earthquake,0.38,0.74,0.155,9,reviewed,nc,nc
-2025-01-22T22:47:31.920Z,44.762166666667,-110.80616666667,8.03,1.64,ml,22,89,0.07607,0.13,uu,uu80099956,2025-01-22T23:16:52.050Z,"25 km SSW of Mammoth, Wyoming",earthquake,0.35,0.76,0.56440485047546,3,reviewed,uu,uu
-2025-01-22T22:47:25.746Z,-29.4463,-71.093,52.289,4.3,mb,26,128,0.487,0.59,us,us6000plqc,2025-01-23T13:31:47.598Z,"52 km NNE of La Serena, Chile",earthquake,3.71,3.572,0.238,5,reviewed,us,us
-2025-01-22T22:43:00.660Z,38.834167480469,-122.80516815185,2.1800000667572,0.3,md,11,66,0.01142,0.02,nc,nc75121436,2025-01-22T22:44:37.676Z,"7 km WNW of Cobb, CA",earthquake,0.39,1.00999999,0.16,13,automatic,nc,nc
-2025-01-22T22:35:58.890Z,38.801498413086,-122.76899719238,19.690000534058,0.98,md,6,152,0.007307,0.03,nc,nc75121426,2025-01-22T22:37:32.851Z,"3 km  of The Geysers, CA",earthquake,3.31,8.56000042,0.12,5,automatic,nc,nc
